@@ -14,4 +14,4 @@ rPorto <- gt_make_raster(location   = c(41.1579, -8.6291),
 rPorto_df <- rasterToPoints(rPorto, spatial = TRUE) %>% as.data.frame()                    
 names(rPorto_df) <- c("value", "x", "y")
 
-saveRDS(rPorto_df,paste0(Sys.time(),"_porto.rds"))
+saveRDS(rPorto_df,paste0("data/",Sys.time(),"_porto.rds"))
