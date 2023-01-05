@@ -30,7 +30,8 @@ jobs:
     # Set-up R
     - name: Install packages
       run: |
-        R -e 'install.packages("googletraffic")'
+        R -e 'install.packages("googleway")'
+        R -e 'install.packages("htmlwidgets")'
         R -e 'install.packages("dplyr")'
         R -e 'install.packages("raster")'
     # Run R script
