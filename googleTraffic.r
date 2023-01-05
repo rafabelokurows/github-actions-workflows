@@ -5,6 +5,8 @@ library(raster)
 
 google_key <- Sys.getenv("DIRTYLITTLE")
 
+webshot_delay = 2
+style <- "[\n    {\n        \"elementType\": \"labels\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road\",\n        \"elementType\": \"geometry\",\n        \"stylers\": [\n            {\n                \"visibility\": \"on\"\n            },\n            {\n                \"color\": \"#ffffff\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"landscape\",\n        \"stylers\": [\n            {\n                \"color\": \"#ffffff\"\n            },\n            {\n                \"visibility\": \"on\"\n            }\n        ]\n    },\n    {}\n]"
 location   = c(41.1579, -8.6291)
 height     = 5000
 width      = 5000
