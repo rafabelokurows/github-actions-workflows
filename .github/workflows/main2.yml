@@ -2,10 +2,10 @@ name: secondGithubAction
 
 # Controls when the action will run.
 on:
-  push:
-    branches: main
-  #schedule:
-  #  - cron: '47 18 * * *'
+  #push:
+  #  branches: main
+  schedule:
+    - cron: '0 9,12,16,17 * * *'
 
 jobs:
   autoscrape:
