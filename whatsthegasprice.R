@@ -9,4 +9,4 @@ api_json = jsonlite::fromJSON(api_char,simplifyDataFrame = T)
 
 df = api_json %>% as.data.frame() %>% mutate(time=Sys.time(),.before = everything())
 
-write.csv(df,paste0(Sys.Date()," fuel prices.csv"),row.names = F)
+write.csv(df,paste0("data/",Sys.Date(),"_fuel_prices.csv"),row.names = F)
