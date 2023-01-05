@@ -3,8 +3,10 @@ name: firstGithubAction
 
 # Controls when the action will run.
 on:
-  schedule:
-    - cron: '47 18 * * *'
+  push:
+    branches: main
+  #schedule:
+  #  - cron: '47 18 * * *'
 
 jobs:
   autoscrape:
