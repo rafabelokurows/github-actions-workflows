@@ -1,11 +1,11 @@
-name: secondGithubAction
+name: Obtaining traffic data 
 
 # Controls when the action will run.
 on:
   #push:
   #  branches: main
   schedule:
-    - cron: '0 9,12,16,17 * * *'
+    - cron: '0 10,12,16,17 * * *'
 
 jobs:
   autoscrape:
@@ -35,7 +35,7 @@ jobs:
         R -e 'install.packages("htmlwidgets")'
         R -e 'install.packages("dplyr")'
     # Run R script
-    - name: googleTraffic
+    - name: Google Traffic data
       run: Rscript googleTraffic.r
 
     # Add new files in data folder, commit along with other modified files, push
