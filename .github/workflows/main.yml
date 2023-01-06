@@ -1,5 +1,5 @@
 # Hourly scraping
-name: firstGithubAction
+name: Scraping US gas prices
 
 # Controls when the action will run.
 on:
@@ -31,7 +31,7 @@ jobs:
         R -e 'install.packages("dplyr")'
         R -e 'install.packages("jsonlite")'
     # Run R script
-    - name: fuelPrice
+    - name: Fuel Prices
       run: Rscript whatsthegasprice.R
 
     # Add new files in data folder, commit along with other modified files, push
