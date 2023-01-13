@@ -18,7 +18,7 @@ pingoDoceStores = pingoDoceStores %>% mutate(across(c(id,lat,long,V1,V2,V3),as.n
   rename(gas95 = V1,
          gas98 = V2,
          diesel = V3)
-write.csv(pingoDoceStores,paste0("/data/",format(Sys.Date(), "%Y%m%d"),"_PingoDoce.csv"),row.names = F)
+write.csv(pingoDoceStores,paste0("/data/stores/",format(Sys.Date(), "%Y%m%d"),"_PingoDoce.csv"),row.names = F)
 
 
 #content$data$stores %>% gather_object %>% json_types %>% count(name, type)
@@ -48,7 +48,7 @@ continenteStores = list.stack(list.select(content$response$locations,id,identifi
                                           businessId,
                                           addressExtra)) %>% as.data.frame()
 
-write.csv(continenteStores,paste0("/data/",format(Sys.Date(), "%Y%m%d"),"_Continente.csv"),row.names = F)
+write.csv(continenteStores,paste0("/data/stores/",format(Sys.Date(), "%Y%m%d"),"_Continente.csv"),row.names = F)
 
 #### MERCADONA - ES e PT ####
 urlMercadona =  "https://www.mercadona.com/estaticos/cargas/data.js?timestamp=%271654860909332%27"
@@ -68,7 +68,7 @@ mercadonaStores = jsonlite::fromJSON(json2)$tiendasFull %>% as.data.frame()%>%
          lat = lt,
          long = lg)
 
-write.csv(mercadonaStores,paste0("/data/",format(Sys.Date(), "%Y%m%d"),"_Mercadona.csv"),row.names = F)
+write.csv(mercadonaStores,paste0("/data/stores/",format(Sys.Date(), "%Y%m%d"),"_Mercadona.csv"),row.names = F)
 
 #### LIDL ####
 #Precisa obter uma key, mas a query continua a mesma (ver POSTMAN)
@@ -99,7 +99,7 @@ continenteStores = list.stack(list.select(content$response$locations,id,identifi
                                           addressExtra)) %>% as.data.frame()
 
 aldiStores = jsonlite::fromJSON(content)$response$locations %>% as.data.frame()
-write.csv(aldiStores,paste0("/data/",format(Sys.Date(), "%Y%m%d"),"_Aldi.csv"),row.names = F)
+write.csv(aldiStores,paste0("/data/stores/",format(Sys.Date(), "%Y%m%d"),"_Aldi.csv"),row.names = F)
 # urlAldi = "https://www.aldi.pt/tools/lojas-e-horarios-de-funcionamento.html"
 # urlBase = "https://www.aldi.pt/tools/lojas-e-horarios-de-funcionamento/"
 # page = read_html(urlAldi)
@@ -222,7 +222,7 @@ for (i in 1:nrow(intermarcheStores)){
 intermarcheStores = intermarcheStores %>%
   mutate(nomeAux = paste0("Intermarché ",cidade,sep="")) %>% left_join(df,by=c("nomeAux"= "nome"))
 
-write.csv(intermarcheStores,paste0("/data/",format(Sys.Date(), "%Y%m%d"),"_InterMarche.csv"),row.names = F)
+write.csv(intermarcheStores,paste0("/data/stores/",format(Sys.Date(), "%Y%m%d"),"_InterMarche.csv"),row.names = F)
 
 
 #### Resumo ####
@@ -241,4 +241,4 @@ df = data.frame(retailer=c("Pingo Doce",
                                              dim(intermarcheStores)[1]
                       ),
            data=Sys.Date())
-write.csv(df,paste0("/data/",format(Sys.Date(), "%Y%m%d"),"_resumo.csv"),row.names = F)
+write.csv(df,paste0("/data/stores/",format(Sys.Date(), "%Y%m%d"),"_resumo.csv"),row.names = F)
