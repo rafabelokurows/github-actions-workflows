@@ -18,27 +18,14 @@ pingoDoceStores = pingoDoceStores %>% mutate(across(c(id,lat,long,V1,V2,V3),as.n
   rename(gas95 = V1,
          gas98 = V2,
          diesel = V3)
-print(nrow(pingoDoceStores))
+print(paste0("Pingo Doce: ",nrow(pingoDoceStores)))
 write.csv(pingoDoceStores,paste0("data/stores/",format(Sys.Date(), "%Y%m%d"),"_PingoDoce.csv"),row.names = F)
-
-
-#content$data$stores %>% gather_object %>% json_types %>% count(name, type)
-# class(content$data)
-# content$data$stores %>% gather_object %>% gather_array
-# content$data$stores
-#
-# content$data
-# data.table::rbindlist(content$data$stores,use.names = T,fill = F)
-# content$data$stores[[99]]
-# modJson<-content$data$stores
-# modJson
-
 
 #### Continente ####
 urlConti = "https://uberall.com/api/storefinders/yw1Z9mcwR18Z5wPB8NSjLFyHhvPAMc/locations/all?v=20211005&language=pt&fieldMask=id&fieldMask=identifier&fieldMask=googlePlaceId&fieldMask=lat&fieldMask=lng&fieldMask=name&fieldMask=country&fieldMask=city&fieldMask=province&fieldMask=streetAndNumber&fieldMask=zip&fieldMask=businessId&fieldMask=addressExtra&"
 json = httr::GET(urlConti,accept_json())
 content = content(json, type="application/json")
-#content$response$locations
+
 continenteStores = list.stack(list.select(content$response$locations,id,identifier,googlePlaceId,lat,lng,
                                           name,
                                           country,
@@ -48,7 +35,7 @@ continenteStores = list.stack(list.select(content$response$locations,id,identifi
                                           zip,
                                           businessId,
                                           addressExtra)) %>% as.data.frame()
-
+print(paste0("Continente: ",nrow(continenteStores)))
 write.csv(continenteStores,paste0("data/stores/",format(Sys.Date(), "%Y%m%d"),"_Continente.csv"),row.names = F)
 
 #### MERCADONA - ES e PT ####
@@ -58,7 +45,7 @@ content = content(json, type="text")
 
 badComma = stringi::stri_locate_last_fixed(content, ",")[,1]
 json2 = paste(substr(content,15,(badComma-1)), substr(content,(badComma+1),(nchar(content)-1)))
-#validate(json2)
+
 mercadonaStores = jsonlite::fromJSON(json2)$tiendasFull %>% as.data.frame()%>%
   rename(country = p,
          district = pv,
@@ -68,7 +55,7 @@ mercadonaStores = jsonlite::fromJSON(json2)$tiendasFull %>% as.data.frame()%>%
          phone= tf,
          lat = lt,
          long = lg)
-
+print(paste0("Mercadona: ",nrow(mercadonaStores)))
 write.csv(mercadonaStores,paste0("data/stores/",format(Sys.Date(), "%Y%m%d"),"_Mercadona.csv"),row.names = F)
 
 #### LIDL ####
@@ -82,77 +69,21 @@ write.csv(mercadonaStores,paste0("data/stores/",format(Sys.Date(), "%Y%m%d"),"_M
 #                       Latitude,Longitude,AR,NF,INFOICON1:INFOICON31)
 # write.csv(lidlStores,paste0(format(Sys.Date(), "%Y%m%d"),"Lidl.csv"))
 
-
-
 #### ALDI ####
 urlAldi = "https://uberall.com/api/storefinders/ALDINORDPT_YTvsWfhEG5TCPruM6ab6sZIi0Xodyx/locations/all?v=20211005&language=pt&fieldMask=id&fieldMask=identifier&fieldMask=googlePlaceId&fieldMask=lat&fieldMask=lng&fieldMask=name&fieldMask=country&fieldMask=city&fieldMask=province&fieldMask=streetAndNumber&fieldMask=zip&fieldMask=businessId&fieldMask=addressExtra&"
 json = httr::GET(urlAldi,accept_json())
 content = content(json, type="text")
 
-continenteStores = list.stack(list.select(content$response$locations,id,identifier,googlePlaceId,lat,lng,
-                                          name,
-                                          country,
-                                          city,
-                                          province,
-                                          streetAndNumber,
-                                          zip,
-                                          businessId,
-                                          addressExtra)) %>% as.data.frame()
 
 aldiStores = jsonlite::fromJSON(content)$response$locations %>% as.data.frame()
+print(paste0("Aldi: ",nrow(aldiStores)))
 write.csv(aldiStores,paste0("data/stores/",format(Sys.Date(), "%Y%m%d"),"_Aldi.csv"),row.names = F)
-# urlAldi = "https://www.aldi.pt/tools/lojas-e-horarios-de-funcionamento.html"
-# urlBase = "https://www.aldi.pt/tools/lojas-e-horarios-de-funcionamento/"
-# page = read_html(urlAldi)
-# read_html(urlAldi) %>%
-#   html_nodes(xpath="/html/body/div[1]/div[1]/div[3]/div/div/div/div[2]/div/div/div[1]/div[3]/div[2]/div[1]/div")
-#   html_nodes(xpath = '//*[@id="store-finder-widget"]/div/div/div[1]/div[3]/div[2]/div[1]/div/div[2]/div[1]') %>%
-#   html_attr("raw")
-# distritos = page %>% html_nodes(".link--secondary") %>% html_text() %>% gsub("[\t\n]", "", .)
-# df = data.frame()
-# for (i in distritos){
-#
-#   distrito = stringi::stri_trans_general(gsub(" ","-",tolower(i)),id = "Latin-ASCII")
-#   url=paste0(urlBase,distrito,".html")
-#   print(url)
-#   page = read_html(url)
-#   print(length(page))
-#   cidades = page %>% html_nodes(".link--secondary") %>% html_text() %>% gsub("[\t\n]", "", .)
-#   url
-#   for (j in cidades){
-#     print(j)
-#     cidade =  gsub(",","",gsub("---","-",stringi::stri_trans_general(gsub(" ","-",tolower(j)),id = "Latin-ASCII")))
-#     urlCidade=paste0(urlBase,distrito,"/",cidade,".html")
-#     print(urlCidade)
-#     pageCidade = read_html(urlCidade)
-#     nomes = pageCidade %>%
-#       html_nodes(".mod-stores__overview-markt") %>%
-#       html_text()
-#     enderecos = pageCidade %>%
-#       html_nodes(".mod-stores__overview-address span:nth-child(1)") %>%
-#       html_text()
-#     cp = pageCidade %>%
-#       html_nodes("br+ span") %>%
-#       html_text()
-#     servicos = pageCidade %>%
-#       html_nodes(".mod-stores__service") %>%
-#       html_text() %>% gsub("[\t\n]", "", .) %>% trimws()
-#
-#
-#     novas = data.frame(distrito = i,cidade = j,nomes,enderecos,cp,servicos)
-#     df = rbind(df,novas)
-#   }
-# }
-# df
-
-
-
 #### Minipreço ####
 url = "https://clube.minipreco.pt/PT/tiendas.v639.json.gz"
 download.file(url,"minipreco.gz")
 gz = gzfile("minipreco.gz")
 minipreco = jsonlite::fromJSON(gz)
-
+print(paste0("Minipreço: ",nrow(minipreco)))
 write.csv(minipreco,paste0("data/stores/",format(Sys.Date(), "%Y%m%d"),"_DiaMiniPreco.csv"),row.names = F)
 
 #### Intermarché ####
@@ -160,7 +91,6 @@ urlIntermarche = "https://www.intermarche.pt/lojas/"
 pageIntermarche = read_html(urlIntermarche)
 teste = pageIntermarche %>%
   html_nodes("#poss-district") %>%
-  #html_children() %>%
   html_nodes("li") %>%
   html_children
 
@@ -180,7 +110,6 @@ intermarcheStores = bind_cols(nome = label %>% unlist(use.names = F) %>% purrr::
 id = ids %>% unlist(use.names = F) %>% purrr::discard(is.na(.)),
 cidade = title %>% unlist(use.names = F) %>% purrr::discard(is.na(.)),
 url = urls %>% unlist(use.names = F) %>% purrr::discard(is.na(.)),
-#link = links %>% unlist(use.names = F) %>% purrr::discard(is.na(.)),
 av = av %>% unlist(use.names = F) %>% purrr::discard(is.na(.)),
 ap = ap %>% unlist(use.names = F) %>% purrr::discard(is.na(.)),
 pa = pa %>% unlist(use.names = F) %>% purrr::discard(is.na(.)),
@@ -189,11 +118,8 @@ lat = lats %>% unlist(use.names = F) %>% purrr::discard(is.na(.)),
 long  = longs %>% unlist(use.names = F) %>% purrr::discard(is.na(.))
 ) %>% as.data.frame()
 
-
 df=data.frame()
 for (i in 1:nrow(intermarcheStores)){
-  #i=1
-
   print(i)
   url = intermarcheStores[i,"url"]
 
@@ -222,7 +148,7 @@ for (i in 1:nrow(intermarcheStores)){
 }
 intermarcheStores = intermarcheStores %>%
   mutate(nomeAux = paste0("Intermarché ",cidade,sep="")) %>% left_join(df,by=c("nomeAux"= "nome"))
-
+print(paste0("Intermarché: ",nrow(intermarcheStores)))
 write.csv(intermarcheStores,paste0("data/stores/",format(Sys.Date(), "%Y%m%d"),"_InterMarche.csv"),row.names = F)
 
 
@@ -242,4 +168,5 @@ df = data.frame(retailer=c("Pingo Doce",
                                              dim(intermarcheStores)[1]
                       ),
            data=Sys.Date())
+print(df)
 write.csv(df,paste0("data/stores/",format(Sys.Date(), "%Y%m%d"),"_resumo.csv"),row.names = F)
