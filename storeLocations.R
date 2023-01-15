@@ -80,8 +80,8 @@ print(paste0("Aldi: ",nrow(aldiStores)))
 write.csv(aldiStores,paste0("data/stores/",format(Sys.Date(), "%Y%m%d"),"_Aldi.csv"),row.names = F)
 #### Minipreço ####
 url = "https://clube.minipreco.pt/PT/tiendas.v639.json.gz"
-download.file(url,"minipreco.gz")
-gz = gzfile("minipreco.gz")
+download.file(url,"data/temp/minipreco.gz")
+gz = gzfile("data/temp/minipreco.gz")
 minipreco = jsonlite::fromJSON(gz)
 print(paste0("Minipreço: ",nrow(minipreco)))
 write.csv(minipreco,paste0("data/stores/",format(Sys.Date(), "%Y%m%d"),"_DiaMiniPreco.csv"),row.names = F)
