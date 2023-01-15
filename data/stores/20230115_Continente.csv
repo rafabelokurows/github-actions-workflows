@@ -1,0 +1,347 @@
+"id","identifier","googlePlaceId","lat","lng","name","country","city","province","streetAndNumber","zip","businessId","addressExtra"
+470445,"00222","ChIJbeoD4_6-JA0RyJBRU1styiM",41.27356725,-8.08744491,"Continente Modelo Amarante","PT","Amarante","Porto","Tv. de São Lázaro","4600-279",209756,NA
+470446,"03197","ChIJIUo4asp5JA0RzP2JX64Ag4I",41.00045198,-8.63937925,"Continente Bom Dia Espinho","PT","Espinho","Aveiro","Rua 22 1452","4500-268",209756,NA
+470447,"00260","ChIJSyjcNqU7GA0RVc_WnojTYFY",39.26317882,-8.01358164,"Continente Modelo Ponte de Sôr","PT","Ponte de Sor","Portalegre","Rua General Humberto Delgado","7400-259",209756,NA
+470448,"00213","ChIJ6RN5t-iIGA0RySosaJrAob8",39.47294247,-8.54560659,"Continente Modelo Torres Novas","PT","Torres Novas","Santarém","R. de Santo António","2350-537",209756,NA
+470449,"02084","ChIJm77DVcFfYAwRhE-UGl88svk",32.66020703,-16.93037888,"Continente Modelo Santo António","PT","Funchal","Madeira","R. Dr. França Jardim 2","9020-401",209756,NA
+470450,"01391","ChIJpy5SGs64GA0RhFxmbRhH69I",39.33913112,-8.93047776,"Continente Modelo Rio Maior","PT","Rio Maior","Santarém","Av. Dr. Mário Soares","2040-413",209756,NA
+470451,"00004","ChIJEXEiUStlJA0RndtWq7Cqv28",41.11833022,-8.62063861,"Continente Gaiashopping","PT","Vila Nova de Gaia","Porto","Av. dos Descobrimentos","4400-503",209756,"Rua Particular de Santo António, Gaiashopping"
+470452,"02404","ChIJXRBd_Xd1Iw0Rxp78f9fQGr8",40.68233346,-8.47084988,"Continente Bom Dia Albergaria-a-Velha","PT","Albergaria-a-Velha","Aveiro","Rua Comendador Augusto Martins Pereira","3850-089",209756,NA
+470453,"00006","ChIJbVfqVJD5Ig0RhNww_4mwQG8",40.19419588,-8.40871413,"Continente Coimbrashopping","PT","Coimbra","Coimbra","Avenida Mendes Silva","3030-193",209756,NA
+470454,"00458","ChIJcQEPc2KYIw0R0aJ0N3m-V_0",40.64924466,-8.6148854,"Continente Aveiro","PT","Esgueira","Aveiro","Estrada da Taboeira","3800-000",209756,"Aveiro Shopping Center, Quinta Simão Sul"
+470455,"00340","ChIJSSlUiw1lJA0Rfah9lsk25iY",41.14783184,-8.63403874,"Continente Bom Dia Massarelos","PT","Massarelos","Porto","Alameda de Basílio Teles 152","4150-138",209756,NA
+470456,"01059","ChIJZ3v48Sq9Iw0RMcvYjYcsLr4",40.59571258,-8.66235982,"Continente Modelo Ilhavo","PT","Ílhavo","Aveiro","Via do Mercado","3830-246",209756,NA
+470457,"00207","ChIJL7dBSnl0Gg0ReCPkNuzYqt4",38.00562432,-7.86810193,"Continente Beja","PT","Beja","Beja","Rua Zeca Afonso","7800-522",209756,NA
+470458,"01978","ChIJbd76XqIoGw0RbjDiGqxTQi0",37.15196481,-8.5529842,"Continente Portimão Cabeço do Mocho","PT","Portimão","Faro","Rua das Papoilas","8500-313",209756,"Cabeço do Mocho"
+470459,"00221","ChIJ6fSUMHqmGA0Rdaj_S1LTEy0",39.55839829,-8.97756152,"Continente Modelo Alcobaça","PT","Alcobaça","Leiria","Rua General Humberto Delgado","2460-052",209756,NA
+470460,"00257","ChIJfeyGU6RfYAwR3gItNaTYUdQ",32.65921843,-16.95072456,"Continente Modelo MadeiraShopping","PT","Funchal","Madeira","Rua dos Alecrins","9020-119",209756,"Centro Comercial Madeira Shopping - Caminho Sta. Quitéria"
+470461,"01704","ChIJs7oVQoZmJA0RuV_v4y6lfuY",41.207104,-8.611842,"Continente Bom Dia Ponte da Pedra","PT","Pte. da Pedra","Porto","Rua Ponte da Pedra 240-302","4470-108",209756,"Centro Empresarial 3A"
+470462,"01397","ChIJJRPMkdbNHg0R2RkQa3e9PzQ",38.75058926,-9.27489678,"Continente Bom Dia Massamá Sul","PT","Massamá","Lisboa","Rua Sebastião e Silva 3","2734-838",209756,"lote"
+470463,"03341","ChIJN96_swjjJA0RKSgmvhqxKSU",41.571623,-8.26928,"Continente Bom Dia Póvoa de Lanhoso","PT","Póvoa de Lanhoso","Braga","Rua Teixeira Ribeiro 212","4830-512",209756,NA
+470464,"00265","ChIJM3onPd9jJA0R1bJavz58ziQ",41.2022343,-8.5457687,"Continente Modelo Ermesinde","PT","Ermesinde","Porto","Rua das Macieiras 330","4450-502",209756,NA
+470465,"00215","ChIJw6enE3buGA0Rr1XAc98knO4",39.24312639,-8.68784585,"Continente Santarém","PT","Santarém","Santarém","R. Alexandre Herculano","2005-181",209756,"Quinta S. Bernardo, Bairro S. Vicente"
+470466,"00927","ChIJyeVFKDc2GQ0RbNhqGO2bhuY",38.65194688,-9.06607973,"Continente Barreiro","PT","Barreiro","Setúbal","Rua Cândido de Oliveira","2830-000",209756,"e Rua D. João I, Verderena"
+470468,"02632","ChIJK7Z9OLNKGQ0RxVGe-OTuzj4",38.61238658,-9.19108819,"Continente Bom Dia Charneca da Caparica","PT","Charneca de Caparica","Setúbal","Rua António Andrade 1168A","2820-287",209756,NA
+470469,"00267","ChIJU2YFgwgHIw0RKHx14mVsEjE",40.44489909,-8.45084283,"Continente Modelo Anadia","PT","Anadia","Aveiro","N1","3780-222",209756,"Malaposta"
+470470,"02754","ChIJ7X0HYAT5Ig0R4PdO34sCsSY",40.21312462,-8.43387659,"Continente Bom Dia Coimbra","PT","Coimbra","Coimbra","Avenida Fernão de Magalhães 333","3000-176",209756,NA
+470471,"00011","ChIJiY6EMAMtGQ0RxJTfKJeomuk",38.83419486,-9.15648498,"Continente Loureshopping","PT","Loures","Lisboa","Avenida Descobertas 257","2670-482",209756,"Urbanização Quinta do Inquisidor, Loureshopping"
+470472,"00293","ChIJ2-e9R7_uIg0R5aBcE-8uVzE",40.11668707,-8.2388896,"Continente Modelo Lousã","PT","Lousã","Coimbra","Avenida Doutor José Maria Cardoso","3200-202",209756,NA
+470473,"00268","ChIJW_ibU9GGIw0RevIV07KWsNs",40.54046876,-8.67826229,"Continente Modelo Vagos","PT","Vagos","Aveiro","Rua Cândido dos Reis","3840-560",209756,"Estrada Nacional 109"
+470474,"00283","ChIJG23TLhnSGw0RrCzFBc0d56U",38.19020195,-8.56589802,"Continente Modelo Grândola","PT","Grândola","Setúbal","R. Arlindo Vicente","7570-125",209756,"Bairro da Liberdade"
+470475,"00259","ChIJGT3wFXg4GQ0Rbs5kxjQNKL4",38.64375504,-8.97875685,"Continente Modelo Moita","PT","Moita","Setúbal","Rua de Palmela","2860-297",209756,"Quinta do Carvalhinho"
+470476,"02692","ChIJURAuD6ZGGQ0RskmLi4sEk-0",38.56795565,-8.93517764,"Continente Bom Dia Quinta do Anjo","PT","Quinta do Anjo","Setúbal","Rua Venâncio da Costa Lima 189","2950-805",209756,NA
+470477,"00333","ChIJK0AvHeFmJA0RUsMCu2rg6P4",41.23658248,-8.59667258,"Continente Maia Jardim","PT","Maia","Porto","Rua Agostinho da Silva Rocha","4475-451",209756,"Nogueira"
+470478,"01000","ChIJD_sXrNJ4JA0RrFYCWREgmZo",40.99236137,-8.572739,"Continente Modelo Mozelos","PT","Mozelos","Aveiro","Rua do Murado 292","4535-211",209756,NA
+470479,"02634","ChIJl1CpSNDAJQ0RCSS53MsLg-g",41.82277143,-8.87077225,"Continente Bom Dia Vila Praia de Âncora","PT","Vila Praia de Âncora","Viana do Castelo","Rua 5 de Outubro","4910-456",209756,NA
+470480,"00304","ChIJLZSrVlJkJA0RhZvN9CrZ5FY",41.16689706,-8.61297185,"Continente Bom Dia Vale Formoso","PT","Vale Formoso","Porto","Rua Luís Aguiar 16-26","4250-269",209756,NA
+470481,"00270","ChIJ7VdQglnwGA0RMwrTisuXbUw",39.19644173,-8.62075325,"Continente Modelo Almeirim","PT","Almeirim","Santarém","R. do Matadouro Mun. 119","2080-107",209756,NA
+470482,"00201","ChIJNVv6zRjMGg0R2dY0B06eW-o",37.09050174,-8.24108454,"Continente Modelo Albufeira","PT","Albufeira","Faro","Rua do Município 32","8200-161",209756,"Lote"
+470483,"00277","ChIJZ7IXT4FeJA0Rm-xQ3CB1Y2s",41.32556761,-8.5676901,"Continente Modelo Trofa","PT","Trofa","Porto","Avenida Trofa Velha","4785-716",209756,"S. Tiago do Bougado"
+470484,"01703","ChIJH9gKT-7aJA0Rl3jdZQ8Ax3Q",41.51095895,-7.98840637,"Continente Bom Dia Cabeceiras de Basto","PT","Cabeceiras de Basto","Braga","Avenida Cardeal Dom António Ribeiro","4860-306",209756,NA
+470485,"04291","ChIJKYRi9ljLHg0R1_GNxkYoVwo",38.70664242,-9.20481896,"Continente Bom Dia Restelo","PT","Lisboa","Lisboa","Rua Conselheiro Martins de Carvalho","1400-069",209756,NA
+470486,"02090","ChIJ68k4pQfyJA0RtflKUh5dSNg",41.37195903,-8.31063129,"Continente Modelo Vizela (São João)","PT","Vizela","Braga","Rua Comendador Joaquim de Sousa Oliveira","4815-401",209756,NA
+470487,"01985","ChIJc8NprK3IHg0RYm4Yq1SaZsU",38.69298459,-9.35835779,"Continente Bom Dia Parede II","PT","Parede","Lisboa","Rua Timor 74","2775-291",209756,NA
+470488,"00272","ChIJ13FvOVB6JA0RL1pkIiYrKWA",41.06939736,-8.62532576,"Continente Modelo Gulpilhares","PT","Gulpilhares","Porto","Rua Norton de Matos","4405-671",209756,"Rua das Pedrinhas Brancas"
+470489,"02089","ChIJm1pOk5RfYAwRojlThMw3-Ww",32.65019343,-16.93781964,"Continente Modelo São Martinho","PT","Funchal","Madeira","Caminho de São Martinho 14","9000-070",209756,NA
+470490,"00204","ChIJS58egFpKOw0RNLLH7BnWm0I",41.31161895,-7.73296422,"Continente Vila Real","PT","Vila Real","Vila Real","Avenida do Regimento de Infantaria 13 13 40","5000-436",209756,NA
+470491,"03594","ChIJtyBDqauyGg0Ry3-kHArq_XI",37.03296607,-7.96245628,"Continente Bom Dia Faro","PT","Faro","Faro","Rua Norton de Matos 20-22","8005-267",209756,NA
+470492,"01707","ChIJp-YtSKcyGQ0R87F9tC_HEkU",38.79270931,-9.17305724,"Continente Bom Dia Odivelas","PT","Odivelas","Lisboa","Rua José Gomes Monteiro","2675-341",209756,"Lojas 1/2 Edifício Plaza"
+470493,"01053","ChIJY9316N1nJA0R5_QVZXSlZH0",41.25502215,-8.65365658,"Continente Modelo Mira Maia","PT","Moreira","Porto","Estrada Real 95","4470-274",209756,"Maia Vivaci"
+470494,"00335","ChIJDTB_ZQw1GQ0RHery4oGh5-w",38.65321634,-9.15213683,"Continente Bom Dia Laranjeiro","PT","Laranjeiro","Setúbal","Praceta Luís Sá 2/8","2810-371",209756,NA
+470495,"00321","ChIJn8x2Hp8zGQ0R6pvZIwAwXVI",38.73138561,-9.14170656,"Continente Bom Dia Almirante Barroso","PT","Lisboa","Lisbon","Rua Almirante Barroso 9-9A-9B","1000-012",209756,"S. Sebastião da Pedreira"
+470496,"00224","ChIJiSYuENvdOg0RPrJbXwUEah8",41.76423912,-7.46760942,"Continente Modelo Chaves","PT","Chaves","Vila Real","Av. Cocanha","5400-570",209756,NA
+470497,"00234","ChIJZcqTZC8oHw0RjQhEMgKYURA",38.95397836,-9.3342323,"Continente Modelo Mafra","PT","Mafra","Lisboa","R. da Escola","2640-577",209756,"Estrada Nacional 116 - Salgados"
+470498,"00845","ChIJkyfZONxfYAwRzlGARaWBNYM",32.66016594,-16.91988482,"Continente Modelo Viveiros","PT","Funchal","Madeira","Estrada Dr. João Abel de Freitas","9000-310",209756,"ViveirosSão Roque"
+470499,"02087","ChIJs-keueFeYAwRhCliJxvNmNY",32.66972578,-16.97691323,"Continente Modelo Estreito Câmara de Lobos","PT","Estreito De Câmara","Madeira","R. das Vinhas","9325-063",209756,"Estreito Camara de Lobos Igreja"
+470500,"00216","ChIJH5WFW8-XJA0REex8PJ4IRxM",41.18323788,-8.14913806,"Continente Modelo Marco de Canaveses","PT","Marco de Canaveses","Porto","R. 1º de Maio","4630-205",209756,"Tuías, Lugar do Cotovio Edif. Sonae"
+470501,"00005","ChIJtYnVAVpzIg0RV41fGuJHyiw",39.73266433,-8.82356479,"Continente Leiria","PT","Leiria","Leiria","R. Q.ta do Seminário","2400-441",209756,"Rua do Alto do Vieiro, Leiria Shopping, IC2"
+470502,"00252","ChIJlXBGKLFUBQ0Rr4L0L_KhMv4",37.02858934,-7.85596847,"Continente Modelo Olhão","PT","Olhão","Faro","Estrada Nacional 125","8700-173",209756,"Sítio do Belmonte"
+470503,"00297","ChIJS_AWIQaCGA0R4iCFP9k7fC0",39.66055839,-8.58315184,"Continente Modelo Ourém","PT","Ourém","Santarém","Rua do Vale da Aveleira","2490-542",209756,NA
+470504,"00313","ChIJVxfunQQyGQ0R2TENBMJn2KE",38.790213,-9.10693578,"Continente Bom Dia Sacavém","PT","Lisboa","Lisboa","Quinta do Património 20","2685-010",209756,"Sacavém, Urbanização, Lote"
+470505,"01503","ChIJHZDBfkCVGw0RulIKAHMeBGI",37.96381919,-8.85815975,"Continente Modelo Sines","PT","Sines","Setúbal","A26-1","7520-000",209756,"4, Loteamento Municipal a norte da R52, Lote"
+470506,"00211","ChIJL-PIor3rJA0Raplhxli4BSI",41.36198668,-8.19748817,"Continente Modelo Felgueiras","PT","Felgueiras","Porto","Rua Professor Joaquim Barros Leite","4610-211",209756,NA
+470507,"00205","ChIJA1ayg6uzGA0RRG5TZUqxU7M",39.4131898,-9.140455,"Continente Modelo Caldas da Rainha","PT","Caldas da Rainha","Leiria","Rua Dr Bernardino António Carv. Pargana","2500-136",209756,NA
+470508,"02813","ChIJa6ZqFYRlJA0RLsqfMabqqHk",41.16222538,-8.653378,"Continente Bom Dia Cufra (Av. da Boavista)","PT","Porto","Porto","Avenida da Boavista 2528","4100-119",209756,NA
+470509,"00001","ChIJeSSXE_ZlJA0RZh243ZBbk6o",41.18239428,-8.65801006,"Continente Matosinhos","PT","Senhora da Hora","Porto","Rua João Mendonça 505","4464-503",209756,NA
+470510,"00284","ChIJtcDsUFhLFw0RiPCZ8FVU0Fc",38.42417386,-7.52338081,"Continente Modelo Reguengos","PT","Reguengos de Monsaraz","Évora","Rua da Junqueira","7200-516",209756,NA
+470511,"00867","ChIJ4byYBhJfYAwRkUEYaqT4DFs",32.65470666,-16.97138588,"Continente Modelo Câmara de Lobos","PT","Câmara de Lobos","Madeira","Rua Frei Pedro da Guarda","9300-066",209756,NA
+470512,"00239","ChIJHSlu7oNJOg0RRKPyVZE7YMA",41.80376336,-6.78816473,"Continente Modelo Bragança","PT","Bragança","Bragança","Avenida Abade de Baçal 68","5300-068",209756,NA
+470513,"00278","ChIJWx45deo3GQ0RQJNXdosrfXM",38.65502958,-9.03344499,"Continente Modelo Alhos Vedros","PT","Alhos Vedros","Setúbal","N11-1 11-1","2860-004",209756,"(Extinta Corticeira Ibérica),Estrada Nacional"
+470514,"01058","ChIJgzGoiz_PHg0R_4Kmmh89zbE",38.71644114,-9.34429446,"Continente Modelo Tires","PT","São Domingos de Rana","Lisboa","R. Principal 792","2785-204",209756,"Rua Amália Rodrigues, nº"
+470515,"03605","ChIJY-PmsE5WJA0R_9sZlD0J_ck",41.54137594,-8.430292,"Continente Bom Dia Braga - Quinta das Portas","PT","Braga","Braga","Rua de Abraão","4705-076",209756,"Quinta das Portas, nº120"
+470516,"01169","ChIJ5wDkpjOEIw0Rdb09O2TR3lE",40.86564317,-8.61402523,"Continente Modelo Ovar","PT","Ovar","Aveiro","R. Dr. Mário Sacramento","3880-783",209756,"Freguesia de S. João"
+470517,"01906","ChIJu_jLoHNKGQ0RpAAdIHGUGnI",38.62428672,-9.12607606,"Continente Bom Dia Cruz de Pau","PT","Cruz de Pau","Setúbal","Praceta Quinta dos Pinheiros e Girassóis","2845-037",209756,NA
+470518,"00010","ChIJ4WUAJUZhJA0RlBAohWit7vk",41.22026709,-8.56237272,"Continente Maiashopping","PT","Porto","Porto","Lugar de Ardegães 1009","4445-000",209756,"Maia, Apartado"
+470519,"01904","ChIJ2cFjGFUyGQ0Rwsz5oB8lm7o",38.7561005,-9.14312198,"Continente Bom Dia Alvalade","PT","Lisboa","Lisboa","Rua Acácio de Paiva 22","1700-007",209756,NA
+470520,"00237","ChIJgaUeUJghGQ0RUznYiyUhxes",38.91976325,-8.87223193,"Continente Modelo Porto Alto","PT","Samora Correia","Santarém","Estrada da Samorena","2135-000",209756,"Km109, Nacional 10"
+470521,"00303","ChIJffL_3gYzGQ0R9Yn_PRj35kc",38.74796844,-9.14878363,"Continente Bom Dia Campo Grande","PT","Campo Grande","Lisboa","Campo Grande 1-A","1700-086",209756,NA
+470522,"00248","ChIJY1c2ue-LJA0RfwdX_9c2o-k",41.22538374,-8.40856343,"Continente Modelo Rebordosa","PT","Rebordosa","Porto","R. do Vilar","4580-340",209756,"Rebordosa"
+470523,"02403","ChIJpwLZvdk8Iw0RdAmuhlQYjOg",40.52589881,-8.08559955,"Continente Bom Dia Tondela","PT","Tondela","Viseu","Rua Doutor Fernando de Figueiredo","3460-551",209756,"Rotunda dos Combatentes do Ultramar, Fojo"
+470524,"00016","ChIJk72PI9-FIw0RCw9Rm6albtE",40.87518871,-8.63388831,"Continente Ovar","PT","Ovar","Aveiro","Av. D. Manuel I","3880-109",209756,"Sports Fórum Centro Comercial Dolce Vita"
+470525,"03198","ChIJNei60nClOw0R1QuFyfiyXHs",41.53919328,-6.95720931,"Continente Bom Dia Macedo de Cavaleiros","PT","Macedo de Cavaleiros","Bragança","R. Beato Bento de Castro","5340-249",209756,"Rua Dr. Aguedo de Oliveira"
+470526,"01910","ChIJDfOP-D-dGA0RlwxKYO7hzEU",39.63583803,-8.68287122,"Continente Bom Dia Fátima","PT","Fátima","Santarém","Rua das Terras Novas","2495-000",209756,NA
+470527,"00298","ChIJ8fRgS8mpGA0R9U_Q9tcFXMU",39.6116686,-9.06405296,"Continente Modelo Nazaré","PT","Nazaré","Leiria","Praca Maria do Mar","2450-287",209756,"Avenida Abílio Santos e Sousa 3"
+470528,"00262","ChIJtSiH7XtGJA0RPC9lHyRTp-w",41.3934167,-8.75471242,"Continente Modelo Póvoa de Varzim","PT","Póvoa de Varzim","Porto","Rua 25 de Abril 55","4495-252",209756,NA
+470529,"00389","ChIJx-IIzW0uGQ0Ra4yBy9l04f0",38.8262119,-9.08800184,"Continente Modelo São João da Talha","PT","São João da Talha","Lisboa","Estrada Nacional 10","2695-671",209756,"Quinta da Maçaroca"
+470530,"00250","ChIJu53EYGpjJA0R_9BDywoTnFs",41.14525403,-8.55298875,"Continente Modelo São Cosme","PT","São Cosme","Porto","Rua Luís de Camões 706","4420-490",209756,"Largo dos Carregais"
+470531,"01393","ChIJP-lkmRZSJA0ROqYZXhrX7NE",41.53000085,-8.64205547,"Continente Modelo Barcelos","PT","Vila Frescainha (São Pedro)","Braga","Rua do Passal","4750-850",209756,"Freguesia de Vila Frescaínha de S. Pedro"
+470532,"01505","ChIJZSpQfM7VPA0RIEi6xBshD_4",40.4129707,-7.71183155,"Continente Bom Dia Seia","PT","Seia","Guarda","Rua Dr. Gaspar Rebelo","6270-000",209756,NA
+470533,"00295","ChIJMbZudpbMPA0RNn7UqwfjXsU",40.60234074,-7.76116481,"Continente Modelo Mangualde","PT","Mangualde","Viseu","Av. Conde Dom Henrique","3530-201",209756,NA
+470534,"01008","ChIJG-p4wJV8JA0RE7j7pQgc7-c",41.10201628,-8.55485277,"Continente Modelo Avintes","PT","Avintes","Porto","Rua Estádio do Futebol Clube de Avintes","4430-826",209756,NA
+470535,"00494","ChIJPzW-Y3xmIg0Rb2CcwVgeiRk",39.91445027,-8.62119963,"Continente Modelo Pombal","PT","Pombal","Leiria","R. Dr. Saúl Pires Machado","3100",209756,NA
+470536,"00003","ChIJHXDgjAjFHg0RB5eg72nCy-4",38.73768255,-9.39923682,"Continente Cascais","PT","Alcabideche","Lisboa","Estrada Nacional 9 118","2645-543",209756,NA
+470537,"00446","ChIJAfVprHWxGg0RMDEKcJS7uKo",37.13094453,-8.00483198,"Continente Loulé","PT","Loulé","Faro","Avenida Manuel Maria Laginha 231","8100-231",209756,"Urbanização Vale das Rãs"
+470538,"00940","ChIJSQEGiQViJA0Rq2cHM5YUB2o",41.1979431,-8.49127997,"Continente Valongo","PT","Valongo","Porto","Av. do Conhecimento 75","4440-837",209756,"Rua Julião Sarmento 285"
+470539,"01702","ChIJHRrJntz4JA0RGzNHErzKrAM",41.51429616,-8.44883521,"Continente Bom Dia Celeirós","PT","Celeirós","Braga","Av. de São Lourenço","4705-474",209756,"Celeirós (Estrada Nacional 14) Lugar da Cruz"
+470540,"00803","ChIJ31mfzOCKRwsREMVW12rIK-Q",38.52990136,-28.63204118,"Continente Modelo Horta","PT","Horta","Açores","Estrada Príncipe Alberto do Mónaco 230","9900-038",209756,"Apartado"
+470541,"00309","ChIJEz3wMzLJHg0RHmgb0_jo8DE",38.69598549,-9.30933805,"Continente Bom Dia Oeiras","PT","Oeiras","Lisboa","Avenida Embaixador Augusto de Castro 14","2780-199",209756,NA
+470542,"00219","ChIJEbxc5GVfJA0RuyuKISZEPME",41.34232132,-8.49505706,"Continente Modelo Santo Tirso","PT","Santo Tirso","Porto","R. Bernardino Alves Barbosa Santarém 140","4780-140",209756,NA
+470543,"02402","ChIJl78ONsFpJA0R9v7Xcn_VSy4",41.25482084,-8.72091355,"Continente Bom Dia Lavra","PT","Lavra","Porto","Rua Professor Ofélia da Cruz Costa 720-740","4455-137",209756,NA
+470544,"00231","ChIJV6FUGdV7Iw0R5sxbmtAfpT4",40.85626221,-8.39563412,"Continente Modelo Vale de Cambra","PT","Vale de Cambra","Aveiro","R. da Corredoura","3730-401",209756,"Vila Chã"
+470546,"00282","ChIJoX823Xx_JA0RvkWPHAQsHbk",40.96729403,-8.53738722,"Continente Bom Dia São João de Ver","PT","Aveiro","Aveiro","Rua Shopping 36","4520-605",209756,"São João de Ver, Centro Comercial Suil Parque"
+470547,"00261","ChIJJaAWLJ6CIw0RwXNqVkXnVTE",40.83061718,-8.48462021,"Continente Modelo Oliveira de Azeméis","PT","Oliveira de Azeméis","Aveiro","Avenida Ferreira de Castro","3720",209756,NA
+470548,"01054","ChIJOwogfeFNGQ0RsEi3gRpfdO8",38.48161634,-9.10471991,"Continente Modelo Sesimbra","PT","Sesimbra","Setúbal","Avenida João Paulo II","2970-866",209756,"Estrada Nacional 378, Venda Nova"
+470549,"01415","ChIJuf70ey7OHg0R80DGDU3AiYM",38.77332376,-9.31644662,"Continente Modelo Cacém","PT","Rio de Mouro","Lisboa","Rua Marquês Pombal 25","2635-600",209756,NA
+470550,"00279","ChIJochpaCQ8PQ0RDgArN2qj-ZY",40.15515121,-7.49566514,"Continente Modelo Fundão","PT","Fundão","Castelo Branco","Rua Cidade da Covilhã","6230-298",209756,NA
+470551,"03573","ChIJh_OS_-b9Fg0Rsl9jK_cWcNs",39.01530866,-7.07463531,"Continente Bom Dia Campo Maior","PT","Portalegre","Portalegre","Estrada Nacional 371","7370-201",209756,"Prado da Fonte Nova"
+470552,"00307","ChIJUzj-VfFlJA0RSTchJ4A10Mo",41.180912,-8.654984,"Continente Bom Dia NorteShopping","PT","Matosinhos","Porto","Rua Sara Afonso 105-117","4460-841",209756,NA
+470553,"00322","ChIJMbKq8KfNHg0Ra9c9Pxv5uN0",38.75847911,-9.23440372,"Continente Bom Dia Amadora","PT","Lisboa","Lisbon","Largo Dr. Dário Gandra Nunes 3-3A","2700-279",209756,NA
+470554,"00232","ChIJ_2iaRDTQHg0RWj1ZoPD41oU",38.79934434,-9.32629197,"Continente Modelo Tapada das Mercês","PT","Algueirão-Mem Martins","Lisbon","Av. Embaixador Aristides Sousa Mendes","2725-537",209756,"Freguesia de Algueirão-Mem Martins"
+470555,"00228","ChIJI71icFdhJA0R_xNwBO41bkE",41.206361,-8.56083952,"Continente Modelo Maia","PT","Águas Santas","Porto","Avenida Lidador da Maia","4425-116",209756,"Águas Santas, 116"
+470556,"00210","ChIJIUJLtviBIw0RY0SgmStpXls",40.890163,-8.49185,"Continente São João da Madeira","PT","São João da Madeira","Aveiro","Avenida Doutor Renato Araújo 1625","3700-346",209756,NA
+470557,"03585","ChIJK38ibmRiGA0RaqJ0WlliBuQ",39.4615893,-8.4637215,"Continente Bom Dia Entroncamento","PT","Entroncamento","Santarém","Avenida José Eduardo Vitor das Neves","2330-066",209756,NA
+470558,"02618","ChIJoxq_jMRlJA0Rgv0ekcu22WQ",41.18561726,-8.63117508,"Continente Bom Dia Padrão da Légua","PT","São Mamede de Infesta","Porto","Rua Nova do Seixo 689","4460-384",209756,NA
+470559,"00327","ChIJh6IwYSfNHg0R2vU7uOdOjps",38.749879,-9.204775,"Continente Bom Dia Benfica","PT","Benfica","Lisboa","Rua Olivério Serpa LT1","1500-471",209756,"Benfica"
+470560,"01050","ChIJVZF9_VD-JA0Rq5PDIAr71bs",41.57927405,-8.42897198,"Continente Braga Nova Arcada","PT","Braga","Braga","Avenida do Cávado 134","4700-084",209756,NA
+470561,"00462","ChIJBz-NDyM5GQ0RXQGk8W8zmhU",38.69379372,-8.94243159,"Continente Montijo","PT","Montijo","Setúbal","Rua da Azinheira","2870-500",209756,"Zona Industrial Pau Queimado, Afonsoeiro"
+470562,"00471","ChIJpzzaKkI0Iw0RBH6lxTqeiek",40.63510336,-7.84453542,"Continente Modelo Retail Park Viseu","PT","Viseu","Viseu","Av. Fortes da Gama 16","3505-639",209756,"Quinta da Magarenha"
+470563,"04351","ChIJj4NhBvJQIw0RL9ywZATMjUA",40.90150523,-7.93480132,"Continente Bom Dia Castro Daire","PT","Castro Daire","Viseu","Av. 25 de Abril","3600-124",209756,NA
+470564,"00226","ChIJMXWHNxR7JA0Reruk_0Pt664",41.09726531,-8.59818505,"Continente Modelo Gaia (Rechousa)","PT","Rechousa","Porto","Rua Alto das Torres 891","4430-010",209756,"Mafamude"
+470565,"01700","ChIJfZp9A7K1Gg0RY1woylG_YuQ",37.07462075,-8.09563321,"Continente Modelo Quarteira","PT","Quarteira","Faro","Avenida de Ceuta","8125-303",209756,"lote 1, Local dos Cavacos"
+470566,"00246","ChIJAx0gXHnQHg0R0cy4KmgOJM0",38.81382327,-9.36205041,"Continente Modelo Sintra/Lourel","PT","Lourel","Lisboa","Estrada da Cavaleira 1","2710-140",209756,NA
+470567,"00289","ChIJmZSsP8woGQ0Rwg-KfmtdwZ4",38.89071706,-9.04222889,"Continente Modelo Alverca","PT","Alverca do Ribatejo","Lisboa","N10","2615-382",209756,"10 Km,Estrada Nacional,Rua António Ferreira do Carmo"
+470568,"00325","ChIJ70sVDkl7JA0R0EL_Lcd39Rk",41.11326085,-8.59050087,"Continente Bom Dia Boucinhas","PT","Vila Nova de Gaia","Porto","Av. Vasco da Gama","4430-247",209756,"Lugar de Boucinhas"
+470569,"00235","ChIJTTT3UpdjJA0R2BHzLEptd9g",41.17447025,-8.55534852,"Continente Modelo Rio Tinto","PT","Rio Tinto","Porto","Avenida Doutor Domingos Gonçalves de Sá","4435-213",209756,NA
+470570,"01056","ChIJ9eEuKbrqJA0R7AUf4GtUgbk",41.32446508,-8.14928191,"Continente Modelo Lixa","PT","Vila Cova de Lixa","Porto","Av. Dr. Machado de Matos","4615",209756,NA
+470571,"00280","ChIJRxHcwEToJA0RzhsLK53VqBc",41.44399217,-8.16568224,"Continente Modelo Fafe","PT","Fafe","Braga","Via Circular","4820-273",209756,"Quinchães"
+470572,"02076","ChIJBUOJYozSHg0RPsvL5c9Hrl0",38.80739199,-9.22786324,"Continente Bom Dia Caneças","PT","Lisboa","Lisboa","Rua Coronel João Brás de Oliveira","1685-581",209756,"Caneças"
+470573,"00214","ChIJ9R0exqx-GA0RF21-OiInRP8",39.60216765,-8.39766342,"Continente Modelo Tomar","PT","Tomar","Santarém","Avenida Doutor Aurélio Ribeiro","2300-410",209756,"Lugar da Palhavã, Santa Maria dos Olivais"
+470574,"00253","ChIJ-VKszdc3GQ0R71KJ83Gm06g",38.63834052,-9.04820648,"Continente Modelo Barreiro","PT","Barreiro","Setúbal","R. Santo António","2830",209756,"32, Alto do Romão lote, Quinta da Lomba, Santo André"
+470575,"00241","ChIJdTekGjtcPQ0RxgyJ7Nlnxp0",39.83315592,-7.49538316,"Continente Modelo Castelo Branco","PT","Castelo Branco","Castelo Branco","Av. da Europa","6000-145",209756,"Quinta da Taipa"
+470576,"00255","ChIJ0RczZc9AGQ0RgNIeVVpA95A",38.6196861,-8.91396656,"Continente Modelo Pinhal Novo","PT","Pinhal Novo","Setúbal","Rua Gago Coutinho e Sacadura Cabral","2955-189",209756,"N252, Lugar da Cascalheira"
+470577,"04121","ChIJE-O-0kQRIg0RkDyT5qE5EGA",39.87038677,-8.9397751,"Continente Bom Dia Vieira de Leiria","PT","Marinha Grande","Leiria","R. Manuel Dinis Parreira","2430-725",209756,NA
+470578,"00465","ChIJ-0pC8_z4Ig0RU1phjt38Kgw",40.21162926,-8.44307536,"Continente Fórum Coimbra","PT","Coimbra","Coimbra","Avenida José Bonifácio de Andrade e Silva 1","3040-389",209756,NA
+470579,"00269","ChIJW7khnqMOIg0R2AolDFeMlwU",39.73505066,-8.93409442,"Continente Modelo Marinha Grande","PT","Marinha Grande","Leiria","Av. Dr. José Henriques Vareda 122","2430-308",209756,NA
+470580,"00263","ChIJM5rfRE6dJQ0R_D3BfxRm_1E",42.07278168,-8.4967099,"Continente Modelo Monção","PT","Viana do Castelo","Viana do Castelo","Avenida da Boavista","4950-855",209756,"Monção, Veiga Velha - Cortes"
+470581,"00209","ChIJk0gDOsq3JQ0R0yPXH6ypv70",41.70426889,-8.81477943,"Continente Viana do Castelo","PT","Viana do Castelo","Viana do Castelo","R. do Ameal","4900-204",209756,"Meadela"
+470582,"00379","ChIJsT25cyPQHg0RV_e0t0ynn-g",38.78874079,-9.33978379,"Continente Modelo Mem Martins","PT","Algueirão-Mem Martins","Lisboa","R. António Feijó","2725-397",209756,"Com a rua dos Casais"
+470584,"00212","ChIJPUiDE6AjPQ0RaeQr3RT9YZI",40.27114983,-7.50235745,"Continente Covilhã","PT","Covilhã","Castelo Branco","Alameda da Europe","6200-546",209756,"Serra Shopping, Quinta do Pinheiro"
+470585,"00206","ChIJx8U4oZM5GQ0R6a2OBtbHVpE",38.71070345,-8.98788873,"Continente Modelo Montijo","PT","Montijo","Setúbal","Estrada Circular","2870-152",209756,"Lugar do Arneiro 22"
+470586,"04420","ChIJz1-WJe1lJA0RwlPkuvSUrls",41.17661874,-8.64761586,"Continente Bom Dia Via Rápida (Porto)","PT","Porto","Porto","Rua Engenheiro Ferreira Dias 954","4149-008",209756,NA
+470587,"00238","ChIJV4bkC5DoGA0R4uovyGnPGB0",39.16611931,-8.77940787,"Continente Modelo Cartaxo","PT","Cartaxo","Santarém","N3","2070-621",209756,NA
+470588,"00319","ChIJ64bf2YFvJA0R2OKROvzk5YU",41.15500208,-8.66362346,"Continente Bom Dia Foz","PT","Porto","Porto","Rua João de Barros 265","4150-414",209756,NA
+470590,"00299","ChIJtWWCVfalJQ0RuW_eBCmA-HA",41.759746,-8.585808,"Continente Modelo Ponte de Lima","PT","Ponte de Lima","Viana do Castelo","Rua Conde de Aurora","4990-035",209756,NA
+470591,"01504","ChIJ-8dOrL1lJA0R5ZPmL_m4Cdw",41.17065221,-8.63542322,"Continente Bom Dia Ramalde","PT","Porto","Porto","Rua João dos Santos Ferreira","4250-507",209756,"lote 43"
+470592,"00223","ChIJyV6pwMstHw0R1DZUVKJ6dno",39.08066358,-9.2600401,"Continente Modelo Torres Vedras","PT","Torres Vedras","Lisboa","Avenida da Liberdade","2560-970",209756,"Urbanização da Conquinha"
+470593,"00805","ChIJ6TGtfFrRRQsR5Vqckv1RhN0",38.72858158,-27.06731453,"Continente Modelo Praia da Vitória","PT","Praia da Vitória","Açores","Estrada da Circunvalação","9760-400",209756,"Praia da Vitória"
+470594,"00245","ChIJMSa-FgX_JA0Rmj5FYwwZovc",41.5612033,-8.44919892,"Continente Modelo Braga","PT","Braga","Braga","Rua de Seara","4700-154",209756,"Feital, Frossos"
+470595,"00439","ChIJUY8Pl-LXHg0R9mRcX4M9i74",38.94452368,-9.35546896,"Continente Mafra","PT","Mafra","Lisboa","Rua Professor Armindo Ayres de Carvalho 11","2640-453",209756,NA
+470596,"00329","ChIJyZj_yCu2JQ0RQJY-KgnLLUM",41.69462073,-8.83261985,"Continente Bom Dia Viana do Castelo","PT","Viana do Castelo","Viana do Castelo","Rua General Humberto Delgado 101","4900-317",209756,NA
+470597,"00007","ChIJUxnMMSBKGQ0RH18hdFa07l8",38.61308663,-9.10355549,"Continente Seixal","PT","Seixal","Setúbal","Av. Libertadores de Timor Loro Sae 10","2840-293",209756,"RioSul Shopping"
+470598,"04321","ChIJ100zhAonHw0RfYudxE_Oxk4",38.96392805,-9.41281301,"Continente Bom Dia Ericeira","PT","Ericeira","Lisboa","Urbanização Quinta Ribeira da Baleia","2655-350",209756,NA
+470599,"00806","ChIJZb2M3tvWXAsRTlVANPjOsd8",37.820442,-25.527267,"Continente Modelo Ribeira Grande","PT","Ponta Delgada","Açores","Rua Adolfo Coutinho de Medeiros","9600-516",209756,"Ribeira Grande"
+470600,"02400","ChIJWwcV-tH-Ig0RH377SJ4ryvM",40.2514534,-8.43006592,"Continente Modelo Coimbra - Eiras","PT","Coimbra","Coimbra","R. Barca Ribeira de Eiras","3020-497",209756,"Coimbra Retail Park"
+470601,"02085","ChIJWdtPxApjYAwR6VO8mCfR1wo",32.72057967,-16.76901337,"Continente Modelo Machico Centro","PT","Machico","Madeira","R. do Ribeirinho 47-49","9200-102",209756,"Machico"
+470602,"02082","ChIJNREjd6FZYAwRzrb5Bl-Vqt8",32.678645,-17.058575,"Continente Modelo Ribeira Brava Centro","PT","Ribeira Brava","Madeira","Rua dos Dragoeiros 59","9350-150",209756,NA
+470603,"03395","ChIJryZ0EpDHGw0RZaSedMMgW7Y",38.00966807,-8.69280189,"Continente Bom Dia Santiago do Cacém","PT","Santiago do Cacém","Setúbal","Avenida Dom Nuno Alvares Pereira","7540-103",209756,NA
+470604,"03386","ChIJJ1ynfhbWGA0RNnP3676fA0s",38.98264733,-9.08034124,"Continente Bom Dia Arruda dos Vinhos","PT","Arruda dos Vinhos","Lisboa","Avenida Engenheiro Adriano Brito da Conceição","2630-299",209756,NA
+470605,"01981","ChIJZRvERV3OHg0RHJ6A9zvPydQ",38.75130485,-9.30120927,"Continente Bom Dia São Marcos","PT","São Marcos","Lisboa","Estrada de São Marcos","2735-529",209756,NA
+470606,"01902","ChIJ7-ayrsYoGQ0RB_uz7RreaWM",38.90241277,-9.04039131,"Continente Bom Dia Alverca","PT","Lisboa","Lisbon","Estr. Arcena 2","2315-009",209756,NA
+470607,"00807","ChIJCfPqRPHVXAsRlQee0hCHRXI",37.74622281,-25.58471318,"Continente Modelo Lagoa","PT","Lagoa","Açores","Avenida Eng. Luís Alberto Mei. Martins Mota","9560-414",209756,"Estr. Regional da Atalhada,R. Direita"
+470608,"01908","ChIJeSomHOguGQ0RwJiDsGJvCTI",38.86430052,-9.07182897,"Continente Bom Dia Póvoa de Santa Iria","PT","Póvoa de Santa Iria","Lisboa","Rua Américo Costa","2625-173",209756,"Quinta da Piedade"
+470609,"01055","ChIJueiiGqiyJA0RNZtXQti8ZoU",41.17891726,-7.79414982,"Continente Modelo Régua","PT","Peso da Régua","Vila Real","R. de Lousada","5050-106",209756,"Quinta dos Montes, Freguesia de Godim"
+470610,"00375","ChIJUQ61-_DKGA0RDQDgzAlyM7k",39.26298647,-9.15245,"Continente Modelo Bombarral","PT","Bombarral","Leiria","N361","2540-095",209756,"Zona das Actividades Económicas de Comercio"
+470611,"00461","ChIJYbWXoTktGQ0RShA1qQvRA6c",38.818412,-9.174638,"Continente Loures","PT","Loures","Lisboa","Quinta Casal de Pipa EN 250","2670-339",209756,NA
+470612,"00291","ChIJB-BGsRFvFw0RxA3SOGadAqk",38.85511305,-7.58132553,"Continente Modelo Estremoz","PT","Estremoz","Évora","IP2","7100-055",209756,"Quinta do Carmo, Freguesia de Santa Maria"
+470613,"00847","ChIJTT14gd1hYAwRt8Cjk4Co2RQ",32.65332454,-16.84189574,"Continente Modelo Caniço","PT","Caniço","Madeira","Estrada João Gonçalves Zarco","9125-011",209756,"Edifício Caniço Shopping"
+470614,"03609","ChIJFwAAAFSDIw0RXNXCDpZ40xU",40.80862986,-8.57751627,"Continente Bom Dia Avanca","PT","Avanca","Aveiro","Rua João Dias Nunes 15","3860-157",209756,"Quinta do Outeiro"
+470615,"00242","ChIJn1IR6NuMJA0RD3-TznqSbCo",41.28346538,-8.35770586,"Continente Modelo Paços de Ferreira","PT","Carvalhosa","Porto","Travessa de São Domingos","4590-136",209756,NA
+470616,"00312","ChIJ2VVTrGQzGQ0RB6RWgmaZzyA",38.71763125,-9.15677794,"Continente Bom Dia Santa Quitéria","PT","Lisboa","Lisboa","Travessa de Santa Quitéria 38","1250-212",209756,NA
+470617,"00294","ChIJfXUG30RCGQ0RvqNXSEmzAqA",38.53819541,-8.86626719,"Continente Modelo Setúbal","PT","Setúbal","Setúbal","Estrada de Algeruz","2910-272",209756,"Quinta da Caiada"
+470618,"03464","ChIJhRvVPPOfGQ0Rf0b9IRBcI4w",38.67217019,-8.46696567,"Continente Bom Dia Vendas Novas","PT","Vendas Novas","Évora","Avenida 25 de Abril","7080-138",209756,NA
+470619,"00275","ChIJTVd-GoWsIw0RbrmkbyiHjrM",40.34848612,-8.58056919,"Continente Modelo Cantanhede","PT","Cantanhede","Coimbra","Rua Chão do Conde","3060-127",209756,NA
+470620,"00320","ChIJa7pPzNrNHg0RsVI1jMT5Y2U",38.75715913,-9.26843353,"Continente Bom Dia Queluz Ocidental","PT","Queluz","Lisboa","Praceta Simões de Almeida Júnior 13","2745-332",209756,NA
+470621,"03332","ChIJe8WqAwqKGA0Rcbio1_zvhfc",39.40907439,-8.48455823,"Continente Bom Dia Golegã","PT","Golegã","Santarém","Rua Manuel Barreto","2150-154",209756,NA
+470622,"00801","ChIJCY9Za8UqQwsRmH7cpEii6xE",37.74791377,-25.67584734,"Continente Modelo Ponta Delgada","PT","Ponta Delgada","Açores","Rua da Juventude 38","9500-211",209756,NA
+470623,"02083","ChIJTSraLQ9gYAwRMHEo6dHjrXE",32.64969163,-16.90578073,"Continente Modelo Seminário","PT","Funchal","Madeira","Rua do Seminário 9","9050-022",209756,NA
+470624,"00008","ChIJrdNQF97vJA0RHnV5jKQYZIM",41.43985419,-8.30352621,"Continente Guimarães","PT","Guimarães","Braga","Alameda Dr. Mariano Felgueiras","4805-075",209756,"Creixomil"
+470625,"00240","ChIJZUw8WHjYGA0RmiFcJOZfzMY",38.97737764,-8.97774243,"Continente Modelo Vila Franca de Xira","PT","Lisboa","Lisboa","Autoestrada do Norte","2600-723",209756,"Castanheira do Ribatejo. Vila Franca de Xira"
+470626,"00217","ChIJTxEJACzlGQ0Rgc5gYe0jXJs",38.55778551,-7.92092189,"Continente Évora","PT","Évora","Évora","Quinta do Moniz","7000-172",209756,NA
+470627,"01051","ChIJVTIe2mQDEA0Rzu9629AyzEY",37.13016061,-7.63810855,"Continente Tavira","PT","Tavira","Faro","Rua Almirante Cândido dos Reis 247","8800-318",209756,NA
+470628,"00464","ChIJYT9K8cQyGQ0RwGhhN8bikYU",38.7648529,-9.1755154,"Continente Telheiras","PT","Lisboa","Lisboa","Avenida das Nações Unidas","1600-528",209756,"Telheiras"
+470629,"00256","ChIJ0YGtT8hIGQ0Rl-dPwfNNEEU",38.56292199,-9.03694301,"Continente Modelo Quinta do Conde","PT","Quinta do Conde","Setúbal","Avenida Norton de Matos","2975-333",209756,"lote 85, Urbanização Cova dos Vidros"
+470630,"00468","ChIJAfp-t-iIGA0RC-1iiWtXYc0",39.46188404,-8.53264855,"Continente Torres Novas","PT","Torres Novas","Santarém","R. da Tonova","2350-484",209756,"Torres Novas, Quinta das Ferrarias"
+470631,"00315","ChIJa6vG-VNmJA0Rct2yNFducb8",41.23344688,-8.62140818,"Continente Bom Dia Maia","PT","Maia","Porto","R. Eng. Duarte Pacheco","4470-202",209756,"Plaza Center, Loja 26"
+470632,"04228","ChIJCZn8QPEIJQ0RZQPg7a5Hefs",41.807563,-8.42286736,"Continente Bom Dia Ponte da Barca","PT","Pte. da Barca","Viana do Castelo","N203","4980-614",209756,"Casal, Freguesia de Oleiros Km 203"
+470633,"00208","ChIJYdm4iTuxGg0R1kEIJco-myM",37.13842489,-8.03083711,"Continente Modelo Loulé","PT","Loulé","Faro","Rua Engenheiro Duarte Pacheco","8100-390",209756,"S. Sebastião"
+470634,"00244","ChIJp1VG6iFEJA0RHHojKzF__Xc",41.3697005,-8.74473675,"Continente Modelo Vila do Conde","PT","Vila do Conde","Porto","Avenida General Humberto Delgado","4480-776",209756,"Lugar do Casal do Monte, Regufe"
+470635,"00218","ChIJnVbnUWS9Fw0RvEa2nQvcXcM",39.27776082,-7.43166192,"Continente Modelo Portalegre","PT","Portalegre","Portalegre","Rua do Joinal","7300-526",209756,NA
+470636,"00842","ChIJE8PoGNRhYAwRmGpMdTG7FrY",32.64741567,-16.85951635,"Continente Modelo Cancela","PT","Cancela","Madeira","Caminho da Cancela","9050-299",209756,"São Gonçalo"
+470637,"00009","ChIJI4Pu-NQyGQ0RgS8IyaStgI0",38.75474417,-9.1900411,"Continente Colombo","PT","Lisboa","Lisboa","Av. Lusíada","1500-392",209756,"Centro Colombo"
+470638,"00334","ChIJ1xhLaDRZJA0RIAm9haF4JUs",41.3666319,-8.54537238,"Continente Modelo Famalicão","PT","Braga","Braga","Lugar do Xisto","4760-727",209756,"Parque Comercial Largo Discount, Vila Nova de Famalicão"
+470639,"04552","ChIJc0NK2_9vJA0RYwa_hVca9w0",41.1165275,-8.66193325,"Continente Bom Dia Canidelo","PT","Vila Nova de Gaia","Porto","Avenida da Beira-Mar 2263","4400-382",209756,NA
+470640,"00273","ChIJZRcg9_KSJA0RJzZib02Z6Xs",41.27135998,-8.28336394,"Continente Modelo Lousada","PT","Lousada","Porto","Av. Hans Isler 317","4620-134",209756,"Lugar das Arcas"
+470641,"00249","ChIJU5sWRB1jJA0RflIG8pP1Cpk",41.15482486,-8.52950124,"Continente Modelo Fânzeres","PT","Porto","Porto","Rua Nova de Santa Eulália 300-326","4510-570",209756,"Fânzeres"
+470642,"00323","ChIJgfi8rt_NHg0RGR8d8-2EA_8",38.76264929,-9.27570398,"Continente Bom Dia Massamá Norte","PT","Belas","Lisboa","Rua Dona Maria Ana de Austria","2605-663",209756,"Casal Barota, Urb. Massamá Norte, Massamá"
+470643,"00202","ChIJWeG0AOwoGw0RvwlLKOdkpzA",37.13350504,-8.5445675,"Continente Portimão","PT","Portimão","Faro","Av. São Lourenço da Barrosa 124","8500-510",209756,"Quinta da Malata, Lote 1"
+470644,"00314","ChIJV6jP0C5pJA0Rue3PLcJTv6U",41.19892191,-8.71012118,"Continente Bom Dia Leça da Palmeira","PT","Porto","Porto","R. Helena Vieira da Silva","4450-590",209756,"Paço da Boa Nova, B.3 R/C, Leça da Palmeira"
+470645,"00281","ChIJ0V5P05NLJA0RHWX_svQ__q0",41.53054816,-8.76123476,"Continente Modelo Esposende","PT","Esposende","Braga","Rua Doutor Francisco Sá Carneiro 10","4740-010",209756,"Lugar Bouro,Zona Industrial da Gandra, Esposende"
+470646,"00233","ChIJ1-vq0jfYGg0RB6oqxEg58Ns",37.18781692,-8.44809797,"Continente Modelo Silves","PT","Silves","Faro","N124","8300-038",209756,"Lugar da Tapada"
+470648,"00236","ChIJ1W0gw0MKIw0R-GzYMylmnLE",40.59358835,-8.45875969,"Continente Modelo Águeda","PT","Águeda","Aveiro","Rua Portinho","3750-301",209756,"Águeda, Local da Alagoa"
+470649,"01392","ChIJiZ-AOu9FHw0RPeaix8RPLig",39.36761888,-9.38417393,"Continente Modelo Peniche","PT","Peniche","Leiria","Rua General Humberto Delgado","2520-446",209756,"Lote 7 - Sitio Do Convento"
+470650,"01984","ChIJY67ZNkdvJA0RHAZx_5trhlY",41.17932966,-8.68068329,"Continente Bom Dia Matosinhos Sul","PT","Matosinhos","Porto","Avenida Villagarcia de Arosa 993","4450-016",209756,"Avª D. Afonso Henriques 1131"
+470651,"03387","ChIJwXbtaZTZGA0RDG_pi2opBrI",39.03952317,-8.98773689,"Continente Modelo Carregado","PT","Carregado","Lisboa","R. do Casal Machado 1","2580-351",209756,"Alenquer, Casal Machado"
+470652,"03193","ChIJOXYFRvHVIg0Rk8MrTQwQSwc",40.36241772,-7.85637284,"Continente Bom Dia Oliveira do Hospital","PT","Oliveira do Hospital","Coimbra","Rua Doutor João Afonso Ferreira Dinis","3400-173",209756,NA
+470653,"00012","ChIJI1cAO4YxGQ0ROdb7-sExoBU",38.76772103,-9.09685312,"Continente Vasco da Gama","PT","Lisboa","Lisboa","Av. Dom João II","1990-094",209756,"Centro Comercial Vasco da Gama"
+470654,"00326","ChIJNyWZ7Q1kJA0RI3w4Mfyklhc",41.1855319,-8.5824822,"Continente Bom Dia Areosa","PT","Areosa","Porto","Rua António Feliciano Castilho 1171","4435-617",209756,NA
+470674,"00258","ChIJ4yn1QUwwGw0RYPvC_3nvF-8",37.10977368,-8.68895696,"Continente Modelo Lagos","PT","Lagos","Faro","Urbanização Cerro das Mós 315","8600-571",209756,"lote"
+470675,"00220","ChIJic4rvj5sGA0R0jD8X4lW1hk",39.46926943,-8.20422479,"Continente Modelo Abrantes","PT","Abrantes","Santarém","Rua da Esperança","2200-210",209756,NA
+470676,"01057","ChIJ1QZ2tdTQHg0ROBGgqIj_3yo",38.86472992,-9.32641353,"Continente Modelo Montelavar","PT","Montelavar","Lisboa","Avenida da Liberdade 172","2715-097",209756,"Estrada Nacional Nº 9"
+470677,"00331","ChIJU8IOnIDLHg0R3VHxhEQzD9Q",38.70558196,-9.2375929,"Continente Bom Dia Algés","PT","Algés","Lisboa","Praceta Prof. Alfredo de Sousa","1495-241",209756,NA
+470678,"00381","ChIJvVTFpZysJA0RJQm0fX7wPsA",41.10123334,-7.81688444,"Continente Modelo Lamego","PT","Lamego","Viseu","Rua das Amoreiras","5100-190",209756,"Praceta de Nazes, Lugar do Raboal"
+470679,"03603","ChIJkSNtlQyYIw0Rl4Qq4z6jiis",40.64182833,-8.63939703,"Continente Bom Dia Aveiro","PT","Aveiro","Aveiro","Alameda Silva Rocha","3800-385",209756,NA
+470680,"01501","ChIJCdH1W-CAIw0RC5bSZU97DZE",40.9261432,-8.54898798,"Continente Modelo Santa Maria da Feira","PT","Santa Maria da Feira","Aveiro","Rua Comendador Sá Couto","4520-192",209756,NA
+470681,"00466","ChIJ34CnGtuMJA0RPTwfTkD9B_8",41.28511198,-8.36119831,"Continente Modelo Vale do Sousa","PT","Paços de Ferreira","Porto","R. Ferrara Plaza","4590-073",209756,"Centro Comercial S. Domingos Carvalhosa"
+470682,"01911","ChIJWSykwLY7GQ0RCXHxGs2DWxI",38.75123956,-8.96182915,"Continente Bom Dia Alcochete","PT","Alcochete","Setúbal","Avenida da Revolução 1383-1385","2890-013",209756,NA
+470683,"03194","ChIJ1aSHtYhlJA0RumPnWn6XDKg",41.1675458,-8.65478145,"Continente Bom Dia Porto - Mota Pinto","PT","Porto","Porto","R Prof. Mota Pinto","4100-289",209756,NA
+470684,"00247","ChIJK5kRhUGOJA0RH24HQ8gibzY",41.19781172,-8.33583597,"Continente Modelo Paredes","PT","Paredes","Porto","R. António Araújo 349","4580-223",209756,"Lugar de Pias"
+470685,"01706","ChIJA1Jjgp8zGQ0RJCvzpcmnV1g",38.73357228,-9.14264979,"Continente Bom Dia Defensores de Chaves","PT","Lisboa","Lisbon","Av. Defensores Chaves 9A","1000-245",209756,"Av. Praia da Vitória, 7 a"
+470686,"00318","ChIJ8RYv9K9lJA0RYHT3Vyrj-rk",41.16705255,-8.62704152,"Continente Bom Dia Prelada","PT","Porto","Porto","Rua da Prelada 19","4250-376",209756,NA
+470687,"00288","ChIJXVm2d8B5JA0R9PncCQ3jnbQ",41.01597861,-8.63821486,"Continente Modelo São Félix da Marinha","PT","Vila Nova de Gaia","Porto","Rua dos Limites","4410-151",209756,"São Félix da Marinha"
+470688,"00804","ChIJiatAExx_RgsR1qfXo8BNTZg",38.66364393,-27.20659662,"Continente Modelo Angra do Heroismo","PT","São Bento","Açores","Rua do Cambalim 116","9700-037",209756,NA
+470689,"00460","ChIJZ59XVBVlJA0RfZE6F3mmdwg",41.13742252,-8.63816104,"Continente (Gaia Jardim)","PT","Vila Nova de Gaia","Porto","Avenida dos Escultores 119","4400-504",209756,"Centro Comercial Gaia Jardim"
+470690,"00271","ChIJ0XB81avSHg0RQpW8_4XaIRI",38.79214175,-9.19587298,"Continente Modelo Arroja","PT","Odivelas","Lisboa","Avenida Acácias 6","1685-654",209756,"Arroja, 7 Lote 1 Zona"
+470691,"01004","ChIJZ5H8LH9mJA0RZcU82BHIL2g",41.20054157,-8.62125472,"Continente Modelo Leça do Balio","PT","Leça do Balio","Porto","Rua Mainça 697","4465-675",209756,NA
+470692,"02086","ChIJLWGuot5nYAwRHwlNHtR2r2g",32.81052538,-16.88380532,"Continente Modelo Santana","PT","Funchal","Madeira","Sítio do Barreiro","9230-085",209756,NA
+470693,"00459","ChIJGR5mL6n-JA0RsDFZCJJMWvo",41.54089578,-8.40036989,"Continente Braga","PT","Braga","Braga","Av. Robert Smith","4710-249",209756,"Fraião"
+470695,"00014","ChIJG9s_JmNkJA0Raem4_y2hAY8",41.16361877,-8.58416283,"Continente Antas","PT","Porto","Porto","R. dos Campeões Europeus 28-198","4350-149",209756,"Alameda Shopping"
+470696,"00290","ChIJNecmAwdjYAwR6EJC5uCxbMw",32.70674151,-16.76834312,"Continente Modelo Machico","PT","Machico","Madeira","Sitio da Queimada de Baixo","9200-017",209756,"Machico"
+470697,"00203","ChIJbdDZQcw3Iw0RZLPf02il19o",40.67302314,-7.91944027,"Continente Viseu","PT","Abraveses","Viseu","Avenida Bélgica 150","3500-159",209756,NA
+470698,"02852","ChIJ85icgzrVXAsR908eAtj4t0Y",37.75307768,-25.65118449,"Continente Modelo Fajã de Baixo","PT","Fajã de Baixo","Açores","Rua do Loreto 1","9500-452",209756,"Fajã de Baixo"
+470699,"00336","ChIJ6eQp6JczGQ0RGBsl42yC6l8",38.73378828,-9.13313808,"Continente Bom Dia Carlos Mardel (Lisboa)","PT","Lisboa","Lisboa","Rua Carlos Mardel 4","1900-122",209756,"nº (Lisboa)"
+470700,"00002","ChIJWxDcO-jNHg0Rg_Bqgjble5A",38.74136602,-9.23283697,"Continente Amadora","PT","Amadora","Lisboa","Estrada Cabos d'Ávila 249/1","2724-510",209756,"Estrada Nacional, Venteira"
+470701,"00266","ChIJkedLWFLgGA0RfML8EXiSu-k",39.02172523,-8.79553572,"Continente Modelo Salvaterra de Magos","PT","Salvaterra de Magos","Santarém","N118","2120-066",209756,"Km 46"
+470702,"00296","ChIJU_uFgG1BGQ0RYfpl-0w55fI",38.5835263,-8.89179549,"Continente Modelo Palmela","PT","Palmela","Setúbal","Avenida Alberto Valente","2950-313",209756,"Estrada Nacional 252, Volta da Pedra"
+470703,"01943","ChIJc3JvbpyRJA0RuK1tN-hRGlA",41.21045982,-8.26942552,"Continente Modelo Penafiel","PT","Milhundos","Porto","Rua da Capela de Chãos","4560-232",209756,"Lugar de Chãos de Cima"
+470704,"00230","ChIJSbrD18r6PA0RPiOPgydw8kI",40.54583363,-7.26473053,"Continente Modelo Guarda","PT","Guarda","Guarda","R. do Ferrinho","6300-566",209756,"Freguesia S. Vicente"
+470705,"00463","ChIJUyzAKMrOHg0R0gVZYw8IuCA",38.70600174,-9.30155646,"Continente Oeiras","PT","Oeiras","Lisboa","Avenida António Bernardo Cabral de Macedo","2770-219",209756,"Oeiras Parque"
+470706,"00013","ChIJWakM107OGg0RUqNJNEmPOXM",37.12745107,-8.28039025,"Continente Guia","PT","Guia","Faro","N125","8200-417",209756,"Lanka Parque Comercial e Industrial do Algarve, Lote R, Fração 3"
+470707,"00843","ChIJvyX2nnBZYAwRnuKSRowk-Jc",32.69371204,-17.04615256,"Continente Modelo Ribeira Brava","PT","Funchal","Madeira","Sitio da Meia Légua","9350-131",209756,"Ribeira Brava"
+470708,"00251","ChIJo43wv8xSBQ0RakMr2jZFaro",37.03093476,-7.93020273,"Continente Modelo Faro","PT","Faro","Faro","R. Prof. Antonio Pinheiro e Rosa 5","8005-334",209756,"Freguesia da Sé"
+470709,"00229","ChIJ28sMZUYcFw0R1r6NQVOMzOM",38.8781507,-7.14904225,"Continente Modelo Elvas","PT","Elvas","Portalegre","Estr. do Caia","7350-229",209756,"Lugar do Paraíso, Avenida do dia de Portugal, dia 10 Junho 2013"
+470710,"02081","ChIJm5uyvrphYAwRND58PTik-Nk",32.67512951,-16.85250014,"Continente Modelo Camacha Shopping","PT","Funchal","Madeira","Rua Maria Ascensão","9135-060",209756,"Camacha, Sítio da Nogueira"
+492116,"01905","ChIJW9jE-atlJA0RPPr9VJkORLk",41.16321537,-8.62098136,"Continente Bom Dia Serpa Pinto","PT","Porto","Porto","Rua de Serpa Pinto 269-271","4050-586",209756,"nºs"
+493426,"03864","ChIJyY_6DPb6JA0RIj9h7vPHKkw",41.48251412,-8.35118438,"Continente Bom Dia Caldas das Taipas","PT","Caldelas","Braga","Rua Rio Ave","4805-699",209756,NA
+495042,"03331","ChIJae8Fl7_-JA0Rs1k8wzvnk5E",41.550324,-8.417196,"Continente Bom Dia Braga Oficina São José","PT","Braga","Braga","Rua 25 de Abril 10","4710-913",209756,"90"
+498794,"02401","ChIJS3u6j9JkJA0R2NGNRiYDagE",38.73965424,-9.14974439,"Continente Bom dia Barbosa Du Bocage","PT","Lisboa","Lisboa","Avenida Barbosa Du Bocage 117","1050-031",209756,NA
+502562,"04696","ChIJ35W9Ame_EA0RW2VTuGGlgfY",38.14058045,-7.44603838,"Continente Bom Dia Moura","PT","Moura","Beja","Rua Engenheiro Armando Almeida Manso","7860-004",209756,NA
+504142,"00324","ChIJOVs_pW9lJA0R6HcIeYT52JY",41.11328106,-8.59053305,"Continente Bom Dia Gaia (Av. República)","PT","Vila Nova de Gaia","Porto","Rua Boucinhas 1895","4430-194",209756,"Avenida da República 1895"
+505283,"06094","ChIJKcpKf7Z4JA0RTRSvPUdFlCA",40.97871804,-8.57755951,"Continente Bom Dia Santa Maria de Lamas","PT","Santa Maria de Lamas","Aveiro","Rua Santa Maria 3241","4535-403",209756,NA
+506551,"06154","ChIJD3CyJPtoJA0RWBBIE-4_wDE",41.21376732,-8.6850128,"Continente Bom Dia Matosinhos Retail Park","PT","Santa Cruz do Bispo","Porto","Rua Azemel 38","4455-877",209756,"Matosinhos Retail Park"
+511933,"03368","ChIJHfZF-WHMHg0RCd_P6KtZ5WI",38.72244455,-9.23552574,"Continente Bom Dia Carnaxide","PT","Carnaxide","Lisboa","Avenida do Forte 5","2790-073",209756,NA
+517493,"04290","ChIJ18xYS2pkJA0Rwms0EyxeSdY",41.17752201,-8.59119544,"Continente Bom Dia Asprela","PT","São Mamede de Infesta","Porto","Rua Henrique de Sousa Reis","4200-008",209756,"Asprela"
+522983,"01502","ChIJLZtZnAZ_JA0RacW81OMS7bI",40.99918327,-8.5315351,"Continente Bom Dia Fiães","PT","Fiães","Aveiro","R. Principal do Bolhão 245","4505-374",209756,NA
+574410,"03212","ChIJmWv8n2SaJQ0R1TstHYd4rqA",42.024179,-8.646609,"Continente Bom Dia Valença","PT","Valença","Viana do Castelo","Rua Nossa Senhora de Fátima 0","4930-632",209756,"Lugar da Costa da Ervilha"
+574423,"05179","ChIJc28CD-iBIw0R9e_zWyRiALw",40.90675183,-8.49601628,"Continente Bom Dia São João da Madeira","PT","São João da Madeira","Aveiro","Rua António José de Oliveira Júnior 949","3700-205",209756,NA
+580224,"01909","ChIJLxVXUTrNHg0RfUNFdJw9lCM",38.76215461,-9.2030677,"Continente Bom Dia Alfornelos","PT","Alfornelos","Lisboa","Avenida Ruy Luís Gomes","2650-130",209756,NA
+591323,"03583","ChIJq1kKY6NDGQ0REaFktTstfMY",38.5325141,-8.89689978,"Continente Bom Dia Setúbal Variante","PT","Setúbal","Setúbal","Estrada da Baixa de Palmela 14","2900-717",209756,"Quinta das Rosas"
+615369,"08548","ChIJ36R_ZL2bJA0RQDDqUEw49R0",41.08592604,-8.25211954,"Continente Bom Dia Alpendorada","PT","Alpendorada","Porto","Av. de Miratâmega","4575-010",209756,"lote 7"
+619425,"02864","ChIJG1HHZIsyGQ0RZ5r3iCe0V1Y",38.77485524,-9.15614146,"Continente Modelo Alto do Lumiar","PT","Lisboa","Lisboa","Avenida David Mourão-Ferreira 62","1750-314",209756,NA
+619431,"04508","ChIJ5wKYYZUtHw0RRpNz7ivTkp4",39.097982,-9.25477,"Continente Bom Dia Torres Vedras","PT","Torres Vedras","Lisboa","Rua Fernando Vicente 22","2560-628",209756,"Bairro Arenes"
+620830,"04418","ChIJ809eVK43Ig0RFvAn985jTxw",40.16675699,-8.87181645,"Continente Bom Dia Buarcos","PT","Figueira da Foz","Coimbra","Rua Várzea de Buarcos","3080-228",209756,"Av.ª Dr. Mário Soares"
+629114,"05751","ChIJyWTW0422JQ0RiUmO6l5RZ3A",41.6783276,-8.78302318,"Continente Bom Dia Darque","PT","Darque","Viana do Castelo","Avenida Santoinho","4935-052",209756,"Rua das cebolas,Quinta De São Brás"
+630847,"02756","ChIJq05o6aUzGQ0Rf9U3gyVN3Mg",38.74325081,-9.13895511,"Continente Bom Dia Acqua Roma","PT","Lisboa","Lisboa","Avenida de Roma 13-15","1000-261",209756,NA
+630848,"08524","ChIJ4RpeJLE3GQ0RCPSkKSG0gRI",38.6665547,-9.0479951,"Continente Bom Dia Baixa da Banheira","PT","Moita","Setúbal","Rua de Damão 62","2835-089",209756,"Baixa da Banheira"
+631139,"05152","ChIJaRum1L36PA0RPUBsmLNIxDw",40.55418375,-7.2466557,"Continente Bom Dia Guarda","PT","Guarda","Guarda","Avenida de São Miguel","6300-837",209756,"São Miguel da Guarda"
+662045,"04322","ChIJL9d_8TXBGw0RQgBNHCE7l-o",38.0575212,-8.7847531,"Continente Bom Dia Santo André","PT","Santo André","Setúbal","Avenida de Sines","7500-200",209756,"Vila Nova de Santo André, lote 1"
+663569,"06174","ChIJ-zWBDtXKHg0RBSFpPxML17M",38.666973,-9.19255794,"Continente Bom Dia Monte de Caparica","PT","Caparica","Setúbal","Rua da Bela Vista 85","2825-004",209756,NA
+663573,"05759","ChIJW8Mcd8VUBQ0RGlyhwHoXWvA",37.02944717,-7.83683177,"Continente Bom Dia Olhão","PT","Olhão","Faro","Rua Patrão Joaquim Casaca 2","8700-507",209756,NA
+663576,"05766","ChIJSVm4P3YzGQ0RmKWMukTvk_s",38.72696194,-9.14697246,"Continente Bom Dia Duque de Loulé","PT","Lisboa","Lisboa","Avenida Duque Loulé 96","1050-092",209756,NA
+663578,"09083","ChIJk0UwRV1PGQ0R1QZ7H78duIE",38.53486756,-9.02141726,"Continente Bom Dia Brejos de Azeitão","PT","Quinta do Conde","Setúbal","Rua Família Bronze","2925-148",209756,NA
+663579,"03473","ChIJbT6zJOTNHg0RhP6qWJ1P3Sc",38.77122785,-9.27150687,"Continente Modelo Belas","PT","Belas","Lisboa","Estrada Portela","2605-086",209756,NA
+663590,"04289","ChIJSVB2I2EiEA0RuP1HANO3hsA",37.189309,-7.4175083,"Continente Bom Dia Vila Real de Santo António","PT","Vila Real de Santo António","Faro","Avenida Ministro Duarte Pacheco","8900-211",209756,"Complexo Desportivo Vila Real Stº António"
+663592,"06089","ChIJWe4K9vJ0Gg0R4uoOQPHQ5b4",38.0214729,-7.84542457,"Continente Modelo Beja Retail","PT","Beja","Beja","Estr. das Apolinarias","7800-050",209756,"com EN 260"
+793452,"09055","ChIJzYF7Q-AsQwsRgM31uKY_Vgo",37.83397816,-25.68661545,"Continente Modelo Capelas","PT","Capelas","Açores","Rua do Rossio","9545-143",209756,"Lote A, Nº4"
+793453,"09054","ChIJhS61vwUrQwsRBV359rOcG50",37.760108,-25.7017,"Continente Modelo Arrifes","PT","Arrifes","Açores","Rua da Saúde","9500-376",209756,"Rua Cardeal Humberto Medeiros, Freguesia de Arrifes"
+839241,"04860","ChIJkRxgP081GQ0RrPCLKYIgWZw",38.668567,-9.159029,"Continente Bom Dia Cova da Piedade","PT","Almada","Setúbal","Avenida 23 de Julho 5","2805-235",209756,"Cova da Piedade"
+1223646,"08736","ChIJycrb4QplJA0Rkpk8g_RS098",41.06699599,-8.57594811,"Continente Bom Dia Carvalhos","PT","Pedroso","Porto","Av. Dr. Moreira Sousa 805","4415-383",209756,NA
+1223985,"05746","ChIJTaJ8Gg3VGA0RyT7DmqXBnFQ",39.02104632,-9.15467912,"Continente Bom Dia Sobral de Monte Agraço","PT","Sobral de Monte Agraço","Lisboa","Av. Marquês de Pombal","2590-095",209756,"N248, Alto Fetais"
+1231112,"04578","ChIJDbUjtht5JA0R6UXbZlAN1_E",40.96198268,-8.62836053,"Continente Bom Dia Esmoriz","PT","Esmoriz","Aveiro","Rua da Estação 45","3885-455",209756,NA
+1248641,"06332","ChIJXfrc8P2hGA0RuVe7zaOR6Yw",39.62816774,-8.85281932,"Continente Modelo Porto de Mós","PT","Calvaria de Cima","Leiria","Estrada de Porto Mós","2480-062",209756,"Entroncamento de São Jorge, E.N. 1 com"
+1250518,"03886","ChIJuQCF4DAzGQ0RdgTzfbBxyXg",38.75860882,-9.114854,"Continente Modelo Marechal Gomes da Costa","PT","Lisboa","Lisboa","Av. Marechal Gomes da Costa 33","1800-255",209756,NA
+1250763,"05767","ChIJ7Y4XFunJHg0R3PX92qfzfr0",38.69663343,-9.32591351,"Continente Bom dia Quinta do Marquês","PT","Oeiras","Lisboa","Rua Norton de Matos 2","2780-155",209756,"Quinta do Marquês, R. Dr. António José de Almeida"
+1253218,"03883","ChIJkX-Eql0hIw0Ro1bAPE0UjqU",40.40431115,-8.12929138,"Continente Bom Dia Santa Comba Dão","PT","Santa Comba Dão","Viseu","Avenida Santo Estevão 33","3440-323",209756,NA
+1256020,"09665","ChIJ1_75qPF_JA0Rx0FyYKXfbvU",41.02839256,-8.55674727,"Continente Bom Dia Grijó","PT","Grijó","Porto","Rua de Américo de Oliveira","4415-425",209756,NA
+1261256,"09024","ChIJJzffO6q1GA0R7Zn6n3JA_k0",39.35209177,-9.16017838,"Continente Bom Dia Óbidos","PT","Óbidos","Leiria","N8","2510-081",209756,NA
+1261311,"02596","ChIJK4bajNbRGg0RjayPnZrMPRs",37.10660527,-8.36263711,"Continente Bom Dia Armação de Pêra","PT","Armação de Pêra","Faro","Avenida General Humberto Delgado","8365-138",209756,NA
+1366032,"07683","ChIJPxOBPiZlJA0RnH32iHRiY64",41.14899451,-8.60581105,"Continente Bom Dia Via Catarina Shopping","PT","Porto","Porto","Rua de Santa Catarina 312-350","4000-433",209756,"Catarina Shopping"
+1400468,"05763","ChIJEW-VV_ZzIg0RRvuTLJnjFG4",39.754681,-8.80295,"Continente Bom Dia Leiria Marrazes","PT","Leiria","Leiria","Rua Álvaro Pires Miranda","2415-369",209756,NA
+1553347,"06175","ChIJkzAmFgbfOg0R-akPNVLMS0g",41.74432691,-7.47002563,"Continente Bom Dia Chaves","PT","Chaves","Vila Real","Avenida Doutor António Granjo","5400-080",209756,"lote 6 Chaves"
+1570366,"02075","ChIJa-adpBMJOw0RJSwyTPbgxd0",41.47532016,-7.17754151,"Continente Modelo Mirandela","PT","Mirandela","Bragança","Rua Força Aérea","5370-408",209756,NA
+1576150,"09379","ChIJiwJu03uzGA0RtzibgHJnZQ8",39.39893283,-9.13565881,"Continente Bom Dia Caldas da Rainha","PT","Caldas da Rainha","Leiria","Rua Fernando Ponte e Sousa 37","2500-200",209756,NA
+1630212,"07691","ChIJIw99DIMzGQ0RCl5-UdyRB2E",38.72967175,-9.12828904,"Continente Bom Dia General Roçadas","PT","Lisboa","Lisboa","Avenida General Roçadas 169","1170-230",209756,NA
+1630215,"03580","ChIJ3wBJoIyXJQ0RgFhswfk5lWs",41.944,-8.74264,"Continente Bom Dia Vila Nova de Cerveira","PT","Vila Nova de Cerveira","Viana do Castelo","Rua do Belo Cais 5","4920-260",209756,NA
+1630217,"09664","ChIJu9JgBeIjPQ0RDfiLx9s574M",40.2940055,-7.4828713,"Continente Bom Dia Canhoso","PT","Covilhã","Castelo Branco","Rua Humberto Delgado 2B","6200-027",209756,NA
+1769506,"03366","ChIJn6Mnpw83Ig0RS5rlBWHy9MI",40.1580955,-8.84853553,"Continente Modelo Figueira da Foz","PT","Figueira da Foz","Coimbra","Rotunda Maria Clara","3080-602",209756,NA
+1786140,"04246","ChIJjega392bIw0Rk2nWN8ilXnQ",40.76256829,-8.57365289,"Continente Bom Dia Estarreja","PT","Estarreja","Aveiro","Rua da Arrotinha 50","3860-207",209756,NA
+1789575,"09663","ChIJN4Mz92WBJA0RuBEmNgZ4B6U",41.01053507,-8.46190409,"Continente Bom Dia Canedo","PT","Canedo","Aveiro","Rua do Rio Douro","4525-189",209756,NA
+1790392,"04961","ChIJPZPDbRxlJA0RwN1iC-4vECY",41.148832,-8.600175,"Continente Bom Dia Campo 24 de Agosto","PT","Porto","Porto","Rua de Fernandes Tomás","4000-208",209756,NA
+1799618,"07679","ChIJNRp4NhJ7JA0ReUKHIl57pn0",41.101326,-8.586929,"Continente Bom dia Monte da Virgem - Vila d'Este","PT","Vila Nova de Gaia","Porto","Rua das Colectividades","4430-433",209756,"Vilar de Andorinho"
+1800694,"04526","ChIJ75y4R0zzGA0RrU7VuQ4zA9s",39.25664307,-8.58633314,"Continente Bom dia Alpiarça","PT","Alpiarça","Santarém","Rua José Relvas 46","2090-103",209756,NA
+1846214,"03698","ChIJG4oXPGFzIg0RPz4Cea_ZIbE",39.76094564,-8.82235964,"Continente Bom dia Gândara Olivais","PT","Leiria","Leiria","Rua Dom Carlos I","2415-405",209756,NA
+2122228,"03192","ChIJCwJwpbAzGQ0REWHXed7IYjA",38.787941,-9.147497,"Continente Modelo Alta de Lisboa","PT","Lisboa","Lisboa","Rua Hermínio da Palma Inácio","1750-480",209756,"Lote 28.2 - Loja A"
+2223252,"04902","ChIJm6TYHjwzGQ0Rw20sVnusLpE",38.71496232,-9.13680645,"Continente Bom Dia Martim Moniz","PT","Lisboa","Lisboa","Praça Martim Moniz 1","1100-198",209756,"Edifício Hotel Mundial"
+2270500,"03739","ChIJtXpixVllJA0RaSyRvgrp4y0",41.1810895,-8.61441584,"Continente Bom Dia Amial","PT","Porto","Porto","Rua do Amial 831","4200-062",209756,NA
+2348907,"07678","ChIJebzeTmdjJA0RX3SBWGPGQmI",41.18339793,-8.53765902,"Continente Bom Dia Baguim do Monte","PT","Baguim do Monte","Porto","Tv. Tomás Barbosa Leão 30","4435-816",209756,NA
+2428766,"05769","ChIJI106E_9fPQ0RMh6Gt5Zd5Ms",39.817839,-7.48865,"Continente Bom Dia Castelo Branco","PT","Castelo Branco","Castelo Branco","Rua Adelino Semedo Barata","6000-040",209756,NA
+2449042,"04752","ChIJ7cnkJsuNRwsRDyHsATCov98",38.52871,-28.53262,"Continente Modelo Madalena","PT","Madalena","Açores","Rua José Martins Garcia","9950-323",209756,"Rua Novo Caminho Municipal da Escola Cardeal Costa"
+2462600,"03466","ChIJh3bn3II1GQ0R82E7tKXrI5U",38.64578,-9.170352,"Continente Bom Dia Sobreda","PT","Sobreda","Setúbal","Rua Branca Colaço","2815-892",209756,"Estrada Nacional 10 km 2.8"
+2491270,"03696","ChIJjZmF8hDJHg0RDfYMJCf4vf4",38.68908939,-9.30994198,"Continente Bom Dia Santo Amaro de Oeiras","PT","Oeiras","Lisboa","Avenida Duarte Pacheco 25","2780-316",209756,NA
+2538819,"07695","ChIJMWXqDJ0zGQ0RU5FFsYffqnU",38.78263,-9.117775,"Continente Modelo Portela Ralis","PT","Portela","Lisboa","Avenida do Ralis","2685-252",209756,NA
+2594063,"06173","ChIJlfRLNgLNHg0RS_J_M3zk3PY",38.73869864,-9.22312046,"Continente Bom Dia Alfragide","PT","Amadora","Lisboa","Praceta das Flores 48-49","2610-001",209756,NA
+2608868,"04573","ChIJXckljdMzGQ0R3hdXuB2H4AA",38.7237927,-9.1400047,"Continente Bom Dia Gomes Freire","PT","Lisboa","Lisboa","Rua Gomes Freire 5B","1150-175",209756,NA
+2633269,"03191","ChIJnTxChK4jEA0RBvAj4mmrEDs",37.19156175,-7.42972436,"Continente Modelo Vila Real de Santo António","PT","Vila Real de Santo António","Faro","N125","8900-211",209756,"Avenida Salgueiro Maia - Lugar das Hortas"
+2633281,"07031","ChIJjQk67CCVGQ0RoJQP6GS0QK4",38.64959783,-8.21903991,"Continente Bom Dia Montemor-o-Novo","PT","Montemor-o-Novo","Évora","Avenida Gago Coutinho","7050-160",209756,"Rua Lavre"
+2645002,"01715","ChIJD0UE1_GjIg0Rv_ojJqC1ZnE",39.80069,-8.093185,"Continente Bom Dia Sertã","PT","Sertã","Castelo Branco","Praceta Pinhal 69","6100-751",209756,NA
+2761492,"09587","ChIJIROdtUDNHg0RBTLaG_IvGjE",38.7547,-9.253187,"Continente Bom Dia Queluz Paiva Couceiro","PT","Queluz","Lisboa","Rua Dom Fernando II 19","2745-190",209756,NA
+2845877,"07012","ChIJ_yw1UbMBJQ0RLmthwG44-48",41.65525,-8.43139,"Continente Bom Dia Vila Verde","PT","Vila Verde","Braga","M1196","4730-180",209756,"Av. Dr. António Ribeiro Guimarães"
+2887616,"04678","ChIJf89ouMZlJA0RSX_ggPn5fFM",41.1556041,-8.62929724,"Continente Bom Dia Bom Sucesso","PT","Porto","Porto","Praça do Bom Sucesso 74-90","4150-145",209756,NA
+2908913,"05153","ChIJYfyGukpTJA0RBmlA0JZtd1c",41.537889,-8.622722,"Continente Bom Dia Barcelos","PT","Barcelos","Braga","Av São José - Quinta do Benfeito, Retail Park","4750-234",209756,NA
+2925869,"07116","ChIJT_WtAPEzGQ0RRNebr9IedWE",38.73552746,-9.14146284,"Continente Labs","PT","Lisboa","Lisboa","Rua Dona Filipa de Vilhena 2","1000-135",209756,NA
+2926005,"05749","ChIJB8fKihyvGg0RwAKVR86ILUo",37.157887,-7.8900604,"Continente Bom Dia São Brás de Alportel","PT","São Brás de Alportel","Faro","Avenida da Liberdade 8150","8150-101",209756,NA
+2931716,"04251","ChIJA1tclvSbJA0Rk1izMP3zMFU",41.13153291,-8.29431164,"Continente Bom Dia Cabeça Santa","PT","Penafiel","Porto","Avenida de Cabeça Santa","4575-126",209756,"Rua do cepo Cabeça Santa n106"
+2971967,"06989","ChIJz71ASEJTBQ0RqYwDI7Op_GM",37.01361444,-7.92554636,"Continente Bom Dia Faro Bom João","PT","Faro","Faro","Av. Aníbal Cruz Guerreiro 1","8000-016",209756,NA
+3084862,"07780","ChIJRbpP1cAzGQ0RuZTZXgWXWrQ",38.7419547,-9.1472521,"Continente Bom Dia Lisboa (Av. República)","PT","Lisboa","Lisboa","Avenida República 81B","1050-040",209756,NA
+3099262,"04964","ChIJ1dN7zqRDJA0RLWiS9Gvv9ys",41.30001526,-8.70858221,"Continente Bom Dia Vila do Conde (Outlet)","PT","Vila Chã","Porto","Rue Fonte Cova","4485-592",209756,"Modivas"
+3109956,"04960","ChIJwZ_OIZfbPA0RdmYOdBbGako",40.493,-7.6014986,"Continente Bom Dia Gouveia","PT","Gouveia","Guarda","Avenida Serra da Estrela","6290-370",209756,NA
+3118715,"03780","ChIJ9UL79vLNHg0RzgbI1JkZdMo",38.7539559,-9.2040357,"Continente Bom Dia Augusto Costa","PT","Lisboa","Lisboa","Rua Augusto Costa 21A","1500-064",209756,NA
+3121351,"07207","ChIJ0_-IeVjJHg0RfoMrfOcpHgY",38.69537983,-9.33684873,"Continente Modelo Carcavelos","PT","Carcavelos","Lisboa","Estrada da Alagoa 96","2775-716",209756,"Quinta da Alagoa"
+3121405,"07763","ChIJP54XBp0zGQ0RDu_0xQli7xY",38.74763096,-9.14069697,"Continente Bom Dia Centro Comercial Roma","PT","Lisboa","Lisboa","Av. De Roma 48","1700-348",209756,NA
+3288299,"05154","ChIJZ_VaKgIzGQ0RFKpdyCEO55E",38.71967484,-9.13579193,"Continente Bom Dia Rua da Palma","PT","Lisboa","Lisboa","Rua da Palma 265-287","1100-089",209756,NA
+3311383,"L7773","ChIJE_9yeBkzGQ0R1dakGgYJOj4",38.71481318,-9.1541108,"Continente Bom Dia São Bento","PT","Lisboa","Lisboa","Rua de São Bento 159-165","1200-817",209756,NA
+3373509,"L4327","ChIJYyjzegPRGg0RgSCIARYsVNs",37.13215271,-8.35910733,"Continente Bom Dia Alcantarilha","PT","Alcantarilha","Faro District","R. de Baleizão","8365-023",209756,"Sudoeste Retail Park"
+3381430,"7303","ChIJzxTu72aXZwsRhmRtxXF3mzs",36.95884045,-25.14600456,"Continente Bom Dia Santa Maria","PT","Vila do Porto","Açores","Avenida de Santa Maria 2030","9580-501",209756,"Ilha de Santa Maria, Lugar do Casal,"
+3439288,"L7943","ChIJF5a8Gg1ZIg0R-ltJAXFqdjA",40.11018913,-8.50683242,"Continente Bom Dia Condeixa","PT","Condeixa-a-Nova","Coimbra","Rua da faia 9","3150-100",209756,"Lugar De Castel"
+3450676,"4895","ChIJs3yDzGYvGw0RJJrGFsmyJLE",37.13428059,-8.6659357,"Continente Modelo Odiáxere","PT","Lagos","Faro","Sítio do Carrascal","8600-250",209756,"Odiáxere"
+3495435,"L9586","ChIJWf3ShH7NHg0RFqFJaGzE6QE",38.71728172,-9.22294635,"Continente Bom Dia Carnaxide World Trade Center","PT","Carnaxide","Lisboa","Rua Fernando Távora 3","2790-256",209756,"World Trade Center"
+3538675,"8466","ChIJ5fhO0r8zGQ0R8MsFnDiGN4E",38.72797522,-9.10967231,"Continente Bom Dia Xabregas","PT","Lisboa","Lisboa","Rua de Xabregas 5","1900-438",209756,NA
+3591637,"5745","ChIJB2eNlMqnIw0RhJbI_Pz8PvA",40.5430667751235,-8.53194057941437,"Continente Bom Dia Oiã","PT","Oiã","Aveiro","Estrada nacional 235, lugar do facho","3770-220",209756,NA
+3607558,"1352","ChIJ-7UId6ljJA0RphtXsCxgB-Q",41.1704733158236,-8.57014060020447,"Continente Bom Dia Fabrica do Cobre","PT","Porto","Porto","Rua das Linhas de Torres 3, Rua Companhia Portuguesa do cobre n.º 112","4350-214",209756,NA
+3619440,"L5738","ChIJ_dOJesUzGQ0R_dZ2POjwxSo",38.7372658,-9.1480647,"Continente Bom Dia 5 de Outubro","PT","Lisboa","Lisboa","Avenida 5 de Outubro 85","1050-053",209756,NA
+3619450,"L8427","ChIJTU3NsKPNHg0RavQ_pAAsB9U",38.7548344,-9.19039192,"Continente Bom Dia Colombo","PT","Lisboa","Lisboa","Avenida Lusíada 511","1500-392",209756,"Piso -1"
+3619455,"L5753","ChIJEw1k-IozGQ0R6r0C4W7Lkv8",38.7758549,-9.1020631,"Continente Bom Dia Moscavide","PT","Lisboa","Lisboa","Rua António Maria Pais 23","1885-003",209756,"Moscavide"
+3622508,"L8467","ChIJUTlAKVJhJA0RrJ0L9khGWG4",41.2185614019627,-8.54609191417694,"Continente Bom Dia Ermesinde","PT","Ermesinde","Porto","R. 5 de Outubro 606","4445-673",209756,NA
+3622515,"L7214","ChIJxySIRwuJJA0RKrxFny9auJ0",41.18257031,-8.44288588,"Continente Bom Dia Gandra","PT","Gandra","Porto","Rua Central da Gandra 1162","4585-248",209756,NA
+3627363,"L4593","ChIJ33BkQYszGQ0Ryq30Ixpiue4",38.74094604,-9.13421484,"Continente Bom Dia Av. de Paris","PT","Lisboa","Lisboa","Av. de Paris 3B","1000-226",209756,NA
+3627372,"L9622","ChIJt3AZOC8vGQ0RyL4TY-cBN4Q",38.873306,-9.079195,"Continente Bom Dia Vialonga","PT","Vialonga","Lisboa","Rua Professor Egas Moniz 120","2625-685",209756,NA
+3627378,"L6091","ChIJOxenjiHFHg0RlSsF6iuWqiM",38.7144737,-9.3855617,"Continente Modelo Estoril","PT","Estoril","Lisboa","Rua do Campo Santo","2765-306",209756,"Alto dos Gaios"
