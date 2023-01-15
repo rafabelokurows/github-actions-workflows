@@ -6,7 +6,7 @@ on:
   #push:
   #  branches: main
   schedule:
-    - cron: '15 2 * * *'
+    - cron: '15 3,8 * * *'
 
 jobs:
   autoscrape:
