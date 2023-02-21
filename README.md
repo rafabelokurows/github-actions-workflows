@@ -7,6 +7,14 @@
 
 Therefore, I've created three diferent R scripts to scrape and process data from different sources with varying degrees of difficulty and for different uses.
 
+## Roadmap
+
+- [ ] Check fueleconomy.gov's API definition to see if there are other useful endpoints to call
+- [ ] Start diving into the Google Traffic data to determine patterns
+- [ ] Add Lidl to the store location scraper
+- [ ] Add Auchan to the store location scraper
+- [ ] Plot a map of store locations in relation to population density
+
 ## Data collection pipelines  
 
 ### Scraping US fuel prices
@@ -36,11 +44,3 @@ For now, I'm covering:
 * Minipreço (Dia %)
 
 [![Scraping Portuguese retailers locations](https://github.com/rafabelokurows/scrapingActions/actions/workflows/main3.yml/badge.svg)](https://github.com/rafabelokurows/scrapingActions/actions/workflows/main3.yml)
-
-## Roadmap
-
-- [ ] Check fueleconomy.gov's API definition to see if there are other useful endpoints to call
-- [ ] Start diving into the Google Traffic data to determine patterns
-- [ ] Add Lidl to the store location scraper
-- [ ] Add Auchan to the store location scraper
-- [ ] Plot a map of store locations in relation to population density
