@@ -11,8 +11,6 @@ Therefore, I've created three diferent R scripts to scrape and process data from
 
 - [ ] Check fueleconomy.gov's API definition to see if there are other useful endpoints to call
 - [ ] Start diving into the Google Traffic data to determine patterns
-- [ ] Add Lidl to the store location scraper
-- [ ] Add Auchan to the store location scraper
 - [ ] Plot a map of store locations in relation to population density
 
 ## Data collection pipelines  
@@ -31,7 +29,7 @@ Frequence: Three times per day
 
 [![Obtaining traffic data](https://github.com/rafabelokurows/scrapingActions/actions/workflows/main2.yml/badge.svg)](https://github.com/rafabelokurows/scrapingActions/actions/workflows/main2.yml)
 
-### Scraping store locations from key retailers in Portugal
+<!-- ### Scraping store locations from key retailers in Portugal 
 
 Origin: Each of the retailers' websites  
 Frequence: Monthly
@@ -44,3 +42,4 @@ For now, I'm covering:
 * Minipreço (Dia %)
 
 [![Scraping Portuguese retailers locations](https://github.com/rafabelokurows/scrapingActions/actions/workflows/main3.yml/badge.svg)](https://github.com/rafabelokurows/scrapingActions/actions/workflows/main3.yml)
+-->
