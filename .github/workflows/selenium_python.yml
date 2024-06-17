@@ -1,4 +1,4 @@
-name: Run Selenium On GitHub Action
+name: Selenium Python
 on:
   workflow_dispatch:
 jobs:
