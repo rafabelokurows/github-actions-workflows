@@ -5,8 +5,8 @@ name: Scraping Portuguese retailers locations
 on:
   #push:
   #  branches: main
-  schedule:
-    - cron: '0 10 16 * *'
+  #schedule:
+  #  - cron: '0 10 16 * *'
 
 jobs:
   autoscrape:
