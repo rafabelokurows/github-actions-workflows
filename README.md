@@ -1,4 +1,4 @@
-# Github Actions and automating data collection using R
+# Github Actions and automating data collection using Python and R
 
 ## Goals
 
@@ -28,6 +28,13 @@ Origin: Google Maps API
 Frequence: Three times per day  
 
 [![Obtaining traffic data](https://github.com/rafabelokurows/scrapingActions/actions/workflows/main2.yml/badge.svg)](https://github.com/rafabelokurows/scrapingActions/actions/workflows/main2.yml)
+
+### Test with Selenium, Chrome headless browse on a Python script
+
+Origin: Some random webpage  
+Frequence: On demand  
+
+[![Selenium Python](https://github.com/rafabelokurows/github-actions-workflows/actions/workflows/selenium_python.yml/badge.svg)](https://github.com/rafabelokurows/github-actions-workflows/actions/workflows/selenium_python.yml)
 
 <!-- ### Scraping store locations from key retailers in Portugal 
 
